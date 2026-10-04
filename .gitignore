@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Unsloth auto-generated files
+unsloth_compiled_cache/
+
+# Training outputs: models and checkpoints are too big for GitHub (100 MB limit)
+outputs/*
+# ...but keep the small evaluation results
+!outputs/eval_*.json
+
+# Exported models (if you run export.py)
+*.gguf
+*.safetensors
+
+# Local test input
+my_article.txt

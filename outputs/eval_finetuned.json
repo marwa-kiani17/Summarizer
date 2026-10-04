@@ -1,0 +1,1011 @@
+{
+  "scores": {
+    "rouge1": 39.89,
+    "rouge2": 17.19,
+    "rougeL": 27.14,
+    "rougeLsum": 37.43
+  },
+  "n": 200,
+  "samples": [
+    {
+      "id": "20adc6865b6c8ab3602f7ce902bbf9f032272e5b",
+      "prediction": "Andrew Chan and Myuran Sukumaran executed in Indonesia .\nAustralians appalled by execution of two men who had served time .\nIndonesia's President Joko Widodo says he is cracking down on crime .\nBut Australia also kills innocent civilians in the course of wars .",
+      "reference": "Indonesia executed eight prisoners including two Australians on Wednesday .\nTwo of \"Bali Nine\" were killed despite Australia's pleas for mercy .\nAll around the world, innocent people being killed by the state in our name, writes Mark Beeson ."
+    },
+    {
+      "id": "9ed37971f130f4537a3935e27f111e178f19c55a",
+      "prediction": "Former Royal chef Darren McGrady said that when the Royal princes were children they swapped the instructions from their nanny for their own .\nWilliam and Harry were apparently fed up with the endless diet of traditional English food so wanted a change .\nMr McGrady said that their 'juvenile handwriting gave their identity away'\nHe said that he was 'more scared of the nanny than I was of William'",
+      "reference": "Darren McGrady says the princes once tried to trick him into making pizza .\nAs children, William and Harry forged note to the chef from their nanny .\nThey were apparently fed up with endless diet of traditional English food .\nBut Mr McGrady said their 'juvenile handwriting' gave them away and they ended up with roast chicken ."
+    },
+    {
+      "id": "cc9bee27c90f1610b42d02d1d418cf94076d8dcb",
+      "prediction": "Louis van Gaal's 'fab four' includes Mata, Rojo, Smalling, Fellaini and Young .\nJames Ward-Prowse is one of my 10 players to watch at the start of the season .\nHe scored his second goal in 85 games for Southampton this weekend .\nI've got a feeling one of the promoted teams will survive the relegation battle .\nAaron Lennon looks happy under Roberto Martinez at Everton .\nHarry Kane is a striking star for Tottenham Hotspur .\nAston Villa beat Spurs at White Hart Lane and Tim Sherwood earned vital points .\nYannick Bolasie has been one of the main reasons behind Crystal Palace's incredible run of form this year .",
+      "reference": "Manchester United beat Manchester City 4-2 at Old Trafford on Sunday .\nAshley Young, Marouane Fellaini, Juan Mata and Chris Smalling scored .\nNot many would have expected them to be key men for Louis van Gaal .\nJames Ward-Prowse can reach the top if he adds goals to his game .\nI've got a sneaky feeling one of the promoted teams will survive .\nAaron Lennon looks happy at Everton and he could move permanently .\nAaron Cresswell scored one of the free-kicks of the season against Stoke .\nYannick Bolasie is terrorising defenders with his\u00a0blistering speed .\nFrancis Coquelin and Harry Kane show clubs don't  need to spend big .\nHave Tottenham really improved this season under Mauricio Pochettino?\nVisiting Augusta showed just how dedicated you must be to be the best ."
+    },
+    {
+      "id": "ea5f9993e67b0b4edd3dfc00151602670aa32c6b",
+      "prediction": "Second children are left to rely on hand-me-downs .\nMore than a third of mothers clothed their second baby in one or more hand-me-downs .\nAnd though 82% have a memento of their first child, such as a lock of hair or a video of their first steps, only 23% have a keepsake for their second .\nA third (32%) of second time mums admit to clothing their new baby in one or more hand-me-downs and almost half (46%) say they give them toys which had been brought originally for the elder brother or sister .",
+      "reference": "Parents spend more on  first child because of excitement and inexperience .\nSurvey by Debenhams  shows more pictures and videos taken of first child .\nSecond children have to put up with fewer new clothes and cuddly toys ."
+    },
+    {
+      "id": "3f530c3f9ae07ccf0aa0f551f68d7a02ecdc09fb",
+      "prediction": "Reanne Evans lost 4-2 to Ng On Yee in the semi-finals .\nThe 29-year-old had been dominant in the ladies' game .\nEvans had lost narrowly to Ken Doherty in the first round of qualifying .\nYee won the final against England's Emma Bonney 6-2 .",
+      "reference": "Reanne Evans fell to a shock defeat by Hong Kong's Ng On Yee .\nHer 10-year reign as world snooker champion has come to an end .\nIn 2010, Evans had become the first woman for 16 years to be given the chance to qualify for men's snooker events ."
+    },
+    {
+      "id": "7b6e1b6411c267b63accbf07a6eb9ff20ee866e3",
+      "prediction": "Middlesbrough are fourth after losing 1-0 to Rotherham .\nWolves are seventh after losing 2-1 to Birmingham .\nBolton Wanderers are fifth after beating Brighton 2-1 .\nNorwich City are third after beating Bolton 2-1 .\nDerby County are sixth after drawing 1-1 with Brentford .\nBrentford are ninth after losing 1-0 to Derby County .\nWatford are third after beating Stoke City 2-1 .\nReading are eighth after losing 1-0 to Bournemouth .\nBirmingham City are seventh after beating Wolves 2-1 .\nLeeds United are fourth after beating Norwich 2-1 .\nNottingham Forest are sixth after beating Watford 2-1 .\nMillwall are 17th after losing 1-0 to Wigan Athletic .\nShrewsbury Town are 18th after losing 1-0 to Bury .\nBurton Albion",
+      "reference": "There are eight teams in contention for promotion to the Premier League .\nEvery side involved will be targeting wins from their remaining games .\nPrize money for promotion could come in at \u00a3120 million ."
+    },
+    {
+      "id": "14fe9777b272dff2a82df8efe23dc6ac7c9de3c1",
+      "prediction": "New York Yankees designate hitter Alex Rodriguez returns to the team .\nA-Rod was suspended for the entire 2014 season for PED use .\nFans held up signs saying 'Forgive' in the stands .\nAtlanta Braves trade pitcher Craig Kimbrel to the San Diego Padres .\nTampa Bay Rays' John Jaso suffers a left wrist contusion during game .",
+      "reference": "A-Rod returned to the New York Yankees line-up for the opening day .\nAlex Rodriguez came back from a 162-game suspension for the Yankees .\nHe received a warm welcome on his comeback, with fans even holding up signs that read 'Forgive' in the crowd ."
+    },
+    {
+      "id": "0e512ec6d0797d8328b83f26b8d62fc179a30458",
+      "prediction": "Paul Nungesser, a German citizen, is suing Columbia University .\nHe says the school presented his rape allegations as fact on a university-owned website .\nNungesser is also suing Columbia's president and professor .\nThe case gained international attention when Sulkowicz paraded her mattress in protest .",
+      "reference": "Paul Nungesser was accused of raping former friend Emma Sulkowicz .\nThe case attracted international attention as she paraded her mattress everywhere she went in protest, calling for Nungesser's indictment .\nA judge threw out the case which branded Nungesser a 'serial rapist'\nHe is now suing the school for failing to protect him from backlash .\nNungesser, who is German, says the school presented the claims as fact ."
+    },
+    {
+      "id": "3173d5a68fb344a1162a76813716098d474bf890",
+      "prediction": "Real Madrid lost 3-1 to Malaga on Saturday .\nGareth Bale went down with a calf strain after just two minutes .\nThe Welshman is expected to miss the Champions League semi-final .",
+      "reference": "Gareth Bale suffered a calf strain on Saturday evening at the Bernabeu .\nThe Welshman was forced off in the early moments against Malaga .\nBale will almost certainly miss the clash with Atletico on Wednesday ."
+    },
+    {
+      "id": "5a3bc76faebb866b30822ec51fb9f93dbe73d172",
+      "prediction": "Jared McCarroll, head chef at M Restaurant and Grill, says the best way to cook a perfect steak is to buy the best meat you can afford .\nHe says it's best to speak to your local butcher and pay a little bit extra .\nMr McCarroll says the first step to a perfect steak starts when you are shopping .\nHe says the texture will depend on the quality of the beef and the cut .\nHe says the best steaks are one to 1.5-inches thick as a thinner cut is likely to get dry quicker .\nAnd while we all stress about the cooking times for steak, he advises in checking the temperature of the meat before you start preparing your meal .",
+      "reference": "Jared McCarroll head chef at M Restaurant and Grill shares his expertise .\nThe more fat your steak contains the more juicy it will be after cooking .\nLook for thickness rather than weight when choosing which steak to buy ."
+    },
+    {
+      "id": "551de1fddf18b6917ceb76422778335ecc783f2e",
+      "prediction": "Michael Thorpe was convicted of showing a Premier League game .\nHe was fined and ordered to pay costs eight years ago .\nJudge Recorder Nicolas Gerasimidis has now upheld his appeal .\nMr Thorpe says he has lost his pub as a result of the fight .",
+      "reference": "Landlord was convicted and fined for showing Albanian footage of games .\nBut landmark European Court ruling has since ended such prosecutions .\nLandlord has now had convicted overturned but has since lost his pub .\nPremier League still taking landlords to civil court using copyrights laws ."
+    },
+    {
+      "id": "a0547ef61b3abcec17aebad5e5d0877f519a7d19",
+      "prediction": "Ollie the Owl was 'kidnapped' from a Nottingham pub last month .\nLandlord Richard Stevenson, 32, thought the \u00a37.99 ornament was lost .\nBut he received a letter in the post on March 6 demanding a donation .\nThose responsible for the theft created a Facebook page to keep fans updated about Ollie's adventures since being snatched .\nThe owl has been pictured sunning itself on a beach after it was 'kidnapped' from a Nottingham pub .",
+      "reference": "Ollie the Owl was stolen from lounge area of the Admiral Rodney pub .\nLandlord \u00a0Richard Stevenson received 'ransom letter' instructing money to be donated to charity .\nWooden statue has visited Belfast, Benidorm and Tunisia in last month ."
+    },
+    {
+      "id": "e1d3e38077c727de4bb973ed99bb5f9a65eb3e5e",
+      "prediction": "Manchester United beat Manchester City 4-2 in the Premier League .\nChris Smalling scored the winning goal for the Red Devils .\nThe England international has now scored four goals this season .\nDanny Welbeck has also scored four goals for Arsenal this season .",
+      "reference": "Chris Smalling scored as Manchester United beat rivals Manchester City .\nWin sends Louis van Gaal's side four points clear of the Citizens in third .\nManchester United now sit just one point of Arsenal who occupy second .\nSmalling is confident of chasing down both them and leaders Chelsea .\nREAD: Five things Van Gaal has done to transform United's results ."
+    },
+    {
+      "id": "0c13f1efa97c5c0e2bb61ec02db1493edbea09ef",
+      "prediction": "Sarah Flower says we are living in a society where it is possible to be overweight and deficient in essential nutrients .\nShe says a diet rich in oily fish, whole grains, lean protein, fruit and vegetables should provide enough nutrients .\nOther factors to consider include your ability to absorb the food - digestive complaints can often impede our ability to absorb nutrients .",
+      "reference": "Nutritionist Sarah Flower recommends vitamin-rich foods we should eat .\nVegetables retain more nutrients when you steam, stir-fry or eat them raw .\nEating the correct portions of these foods will ensure good health ."
+    },
+    {
+      "id": "6a6d3da4e88604af338dfd6a40e17e95e4af2e20",
+      "prediction": "Nathan is in contract dispute with Atletico Paranaense .\nHe is expected to speak to Chelsea next week .\nManchester City also interested in signing the Brazilian .\nJose Mourinho and Manuel Pellegrini will go head-to-head for Nathan .",
+      "reference": "Both Chelsea and Manchester City are keen on signing Nathan .\nThe attacking midfielder has been in contract dispute with his current club .\nNathan is due to speak to Chelsea next week ahead of proposed move ."
+    },
+    {
+      "id": "aecd2f6ba1ac007bdd74a64a5b4c08259893788d",
+      "prediction": "Stuart Dallas has been a revelation for Brentford this season .\nThe 23-year-old scored two goals in Brentford's 4-1 win over Fulham .\nDallas impressed for Northern Ireland last week .\nBrentford face Nottingham Forest on Monday .",
+      "reference": "Stuart Dallas, 23, was playing for Crusaders just three years ago .\nAfter a tough start to life at Brentford, he was loaned out to Northampton .\nSince returning to Brentford, he has become a star in promotion push ."
+    },
+    {
+      "id": "6cd63316e59b31c4b4814caa74e5905750a11f51",
+      "prediction": "Jack Grealish and Fabian Delph were the stars of Aston Villa's 2-1 win .\nDelph was outstanding and looked like the player we all felt he could become when he emerged at Leeds .\nGrealish played like a world-class midfielder despite being a youngster .\nLeicester are the favourites to avoid relegation after beating Swansea 3-1 .\nBurnley are bottom of the table and need to improve quickly .\nHarry Kane is the favourite to win the Player of the Year award .",
+      "reference": "Fabian Delph and Jack Grealish  impressed for Aston Villa at Wembley .\nVilla captain Delph scored to send Tim Sherwood's men to FA Cup final .\nGrealish is a similar player to former England star Steve McManaman .\nVilla boss Tim Sherwood has got the club's passion and excitement back .\nLeicester look the most likely of the promoted clubs to stay up .\nThe Foxes have six games remaining, four of which are at home ."
+    },
+    {
+      "id": "b02f77d3c8866a5b7c36c4abb06702a3435e1f06",
+      "prediction": "Harry Kane, Eden Hazard, Diego Costa, Sergio Aguero, David de Gea and Alexis Sanchez are the six players to watch .\nKane has hit 29 goals in 44 games for Spurs so far this season .\nHazard has been Chelsea's standout performer, scoring 17 times in 44 games .\nDiego Costa has spearheaded Chelsea's attack this season, with 18 goals in 30 appearances .\nSergio Aguero has blasted 23 goals in 31 matches for Manchester City .\nDavid de Gea has been outstanding for Manchester United with 13 clean sheets this season .\nAlexis Sanchez has hit 20 goals in 43 games for Arsenal .\nJordan Henderson has been ever-present for Liverpool this season .",
+      "reference": "Premier League footballers are voting for PFA Players' Player of the Year .\nEden Hazard and Harry Kane are the leading candidates for the award .\nSergio Aguero, Alexis Sanchez and David de Gea are also contenders .\nLuis Suarez won last year with Gareth Bale taking the prize the year before ."
+    },
+    {
+      "id": "12829737c8d5558d033dc8dbce2dbcd66ae8567b",
+      "prediction": "Dr Sahar Hussain, 53, attacked two Tube workers at Leicester Square .\nShe screamed 'I'm a doctor' and grabbed their arms during the attack .\nHussain, originally from Iraq, was trying to get home to Woodford Green .\nJudge says she was 'anxious about missing the last train'\nHussain has been ordered to pay \u00a32,250 in fines, compensation and court costs .",
+      "reference": "Dr Sahar Hussain was unable to get through the gates at Leicester Square .\nShe lashed out at two staff members, grabbing their arms and chasing one to a control room .\nThe 53-year-old GP said she was worried about being left on her own in London because she is a Muslim woman .\nHussain has been convicted of assault and fined a total of \u00a32,250 ."
+    },
+    {
+      "id": "ce18162c57c41ac03c43f5c199866e4f373e09b7",
+      "prediction": "England Cricket Board gave Andy Flower the confusing title of technical director of elite coaching .\nFlower is now running the England cricket academy at Loughborough .\nHe has no wish to get involved at England senior level again or become entangled in the politics .\nKevin Pietersen is back playing cricket for Surrey in the hope of winning back a Test spot in the England side .\nManuel Pellegrini is set to be sacked as Manchester City manager .\nJuan Pellegrini, who is living in England, is making plans to take his wife and four children back to Chile .\nThe ECB have launched the domestic NatWest T20 Blast on the same day as an England Test match .\nOnly the ECB, having brought in former Ashes hero Freddie Flintoff to drum up publicity for the launch, could then decide he shouldn't speak to national newspapers .\nAndrew Strauss is a front-runner to becoming director of England Cricket .",
+      "reference": "Andy Flower guided England to three Ashes wins over Australia .\nFormer team director also led England to the world No 1 ICC ranking .\nAndrew Strauss is a front-runner to becoming director of England Cricket ."
+    },
+    {
+      "id": "71d3b05aa2cbb97117125a06cfa988000f52a366",
+      "prediction": "Smita Srivastava, of Allahabad, in the Indian state of Uttar Pradesh, currently holds the record for having the longest hair in India .\nHer hair now stands at 7ft (2.1m)\nShe intends to attempt a record for the Guinness Book of Records .",
+      "reference": "Smita Srivastava currently holds record for longest hair in India .\nHer hair was measured at 6ft (1.8m) in the Limca Book of Records .\nIt now stands at 7ft (2.1m) and has made her a local celebrity .\nSmita has long way to go before she knocks current holder off her perch ."
+    },
+    {
+      "id": "f12de074e13594ecd74958cc30e2eae560fd690b",
+      "prediction": "Ebony Dickens posted a Facebook threat under a fake name .\nShe threatened to shoot every white cop she sees .\nPolice found a gun and three computers in her home .",
+      "reference": "Sheriff's spokeswoman: Ebony Dickens is out of jail after posting $10,000 bond .\nPolice: Authorities found a firearm, three computers in her East Point residence .\nDickens is accused of posting her Facebook rant under the name Tiffany Milan ."
+    },
+    {
+      "id": "d58bf9387cd76f34bbb95fe25f8036015e5cc90a",
+      "prediction": "Thomas K. Jenkins, 49, of Maryland, allegedly robbed 18 businesses in Dover .\nAuthorities say he cut holes to tunnel into buildings .\nJenkins is being held in Maryland and will face 72 charges when he returns to Delaware .",
+      "reference": "Thomas K. Jenkins, 49, was arrested last month by deputies with the Prince George's County Sheriff's Office, authorities said .\nPolice say Jenkins had cut a hole in the roof of a commercial business in Maryland on March 9 and deputies arrested him as he fled .\nJenkins is accused of carrying out multiple robberies in Dover, Delaware .\nHe is facing 72 charges from the Dover Police Department for 18 robberies .\nThe Delaware State Police is planning to file charges over a 19th robbery, which occurred in a part of Dover where jurisdiction is held by state police ."
+    },
+    {
+      "id": "e87984842cccc73e1fcb5da99f27c0a0d6355796",
+      "prediction": "Zodiac Aerospace have unveiled new designs for crew sleeping quarters .\nThey aim to give flight attendants more space and privacy than passengers .\nEach bunk comes with a personal service unit with in-flight entertainment .\nThe designs were created after speaking to 30 flight attendants from four continents .",
+      "reference": "Zodiac Aerospace revealed new designs for cabin crew quarters based on feedback from airline workers .\nThe luxury concept aims to maximise space, comfort and privacy, with a bunk bed system .\nEach bunk has a personal entertainment and\u00a0air-conditioning\u00a0system and lie-flat area .\nAreas are hidden away from passengers behind concealed doors on the lower deck ."
+    },
+    {
+      "id": "74468085fc39beff388348bd55cd02e6aa7959ba",
+      "prediction": "Egyptian-themed mansion advertised as Pharaoh's Palace on its website .\nPromised a 'perfect private location' on seven secluded acres in Tampa .\nAugust 2014 adult-themed party dubbed 'Midsummer Night Wet Dream'\nGot the mansion, bought by Canadian millionaire Gordon Lownds, its first noise complaint .\nNeighbor Ron Nagy had seen ads for the party and filed a complaint .\nMansion also became where Sean Grey, its manager, ran a modeling agency called Pharaoh's Daughters .\nPharaoh's Daughters advertises itself as an agency that helps 'promising young strippers and exotic dancers' find work 'in prestigious gentlemen's clubs'",
+      "reference": "Adult-themed 'Midsummer Night Wet Dream' party got the mansion its first noise complaint in August 2014 .\nSchool was called Pharaoh's Daughters and advertised to help 'promising young strippers' find work at 'prestigious gentlemen's clubs'\nIt has since been shut down by its principal owner, Canadian millionaire Gordon Lownds .\nLownds said he had planned to film a reality show at the mansion about the day-to-day lives of strippers ."
+    },
+    {
+      "id": "97f4aa5809acd9b11bab1508275ef338e6f40089",
+      "prediction": "Thursday marks the 150th anniversary of the surrender of Confederate General Robert E. Lee to Union forces .\nLee's surrender in Appomattox, Virginia marked the beginning of the end of the American Civil War in 1865 .\nRe-enactors clashed in a re-enactment of the Battle of Appomattox Courthouse .\nUnion and Southern re-enactors spent the night encamped in tents at Appomattox Court House National Historical Park .\nThousands of people lined up to watch the battle re-enactment .",
+      "reference": "Confederate\u00a0Gen. Robert E. Lee surrendered to Union Lt. Gen. Ulysses S. Grant on April 9, 1865 .\nThe surrender in Appomattox, Virginia, is considered a milestone event in the ending of the Civil War .\nRe-enactors gathered in Appomattax for a re-enactment of the\u00a0Battle of Appomattox Courthouse ."
+    },
+    {
+      "id": "ebf35b359cc5f7569709ed275aada7f9b98b83d6",
+      "prediction": "Hamilton College in Clinton, New York, was placed on lockdown this morning .\nA bomb threat and the threat of a shooting at Kirner-Johnson Building were received by phone at 9.45am .\nA suspicious package was found in the Kirner-Johnson building, and K-9 dogs were on scene .\nBy 3.30pm, officers examined the item found at the Kirner-Johnson building and found it to be harmless .",
+      "reference": "Hamilton College in Clinton received bomb threat and threat of shooting at 9.45am .\nStudents and staff were urged to shelter in place, lock doors, draw curtains and stay away from windows .\nSuspicious package found in Kirner-Johnson Building; bomb squad arrived from Albany to\u00a0investigate .\nA state trooper announced just before 12.40pm there was no active shooter .\nAll classes at Hamilton were canceled for the day .\nSuspicious package at Kirner-Johnson Building was found to be harmless ."
+    },
+    {
+      "id": "a9f0d9f04f7244eeb27797bd7c45e2a224c2d32f",
+      "prediction": "Defense Department: Remains of up to nearly 400 unaccounted for service members will be exhumed .\nUSS Oklahoma sank when it was hit by torpedoes on December 7, 1941, during the Japanese attack on Pearl Harbor .\nA total of 429 sailors and Marines on the ship were killed .\nThirty-five crew members were positively identified and buried in the years immediately after the attack .",
+      "reference": "USS Oklahoma was lost during Japanese attack on Pearl Harbor in 1941 .\nHundreds of crew members were buried without identification ."
+    },
+    {
+      "id": "8ba20bec4358b39f84a8a07264f71566bb3c5e8e",
+      "prediction": "Bi Fujian, a popular Chinese TV host, was filmed cursing Mao Zedong .\nHe was singing a revolutionary song that eulogizes the Communist Party's early years .\nBi later apologized: \"I hereby sincerely apologize to the public\"\nMao still divides opinion in China .",
+      "reference": "Bi apologizes on social media: \"My personal speech has led to grave social consequences\"\nChinese TV star filmed cursing the late Chairman Mao Zedong .\nMaking disrespectful references to China's leaders in public is still taboo ."
+    },
+    {
+      "id": "3dbfffdbe94a3d99dceb836333e248723e00bf95",
+      "prediction": "Bloomberg, 73, is reportedly considering standing for Boris Johnson .\nHe has the backing of senior officials in Britain's Conservative Party .\nJohnson is also standing for a seat in Britain's parliament in May .\nHe has said if he wins he will stay in the mayor's job until 2016 .",
+      "reference": "Three-time NYC mayor is rumored to be have his sights on London .\nSources in Britain's ruling Conservative party said he could stand for them .\nBloomberg has business interests, property and family in Great Britain .\nIncumbent Boris Johnson's term will end in 2016 ."
+    },
+    {
+      "id": "ca07b8fd825550d76b46e6f9986428bb3f492491",
+      "prediction": "Freddie Gray broke his neck when he fell head-first into the back of the van .\nHe was standing in the van, bent over, with his hand cuffed behind his back .\nThe van was travelling and he fell into the door, breaking his neck .\nPolice have admitted the van made a previously unreported stop .\nIt was picked up by a privately-owned security camera .\nA report claims Gray's 'catastrophic' head injuries were consistent with hitting a bolt 'in the back door of the van'\nThere was 'no evidence' Gray sustained a fatal spine injury during his arrest .\nGray was arrested on April 12 and died four days later in hospital .\nNine days before his arrest, the Baltimore Police Department issued a new policy, making it obligatory to belt all inmates placed in the back of a transport van .",
+      "reference": "Medical examiner 'found Freddie Gray's catastrophic head injury was consistent with bolt in the back door of the police van'\nPolice report suggests he was standing and fell head first into the door .\nOfficer driving van has yet to give statement to police, sources claim .\nReport on Freddie Gray's arrest and death handed to State's Attorney at 8.50am ET on Thursday .\nIt includes admission that police van made a previously unknown stop .\nPolice Commissioner refused to elaborate on the information ."
+    },
+    {
+      "id": "67dd8173a97d6b2a71d7655435ae6f78fcab7e2f",
+      "prediction": "The first mid-air refuelling of an unmanned aircraft was today successfully achieved .\nIt was done by the Navy's X-47B drone .\nSalty Dog 502 vehicle is one of two Unmanned Carrier Air Vehicle demonstrators (UCAS-D) on the X-47B program .\nRefuelling in flight is the last hurdle for the Northrop Grumman-built jet .",
+      "reference": "Salty Dog 502 trailed Omega Air Refuelling 707 tanker from a mile off .\nIt used optical sensors and a camera to monitor approach to 20 feet .\nIt then plugged its refuelling probe into hose of the Omega Air KC-707 .\nDrone is size of an F/A-18 Super Hornet and weighs 44,000lb (20,000kg)"
+    },
+    {
+      "id": "36030aef4c44605864c7f099b45a836da0dda0cd",
+      "prediction": "Cristina Coria, a stay-at-home mom with a nine-month old child, helped police nab the 18-year-old suspect .\nShe arranged to meet the suspect with her husband at a gas station parking lot near I-45 in Houston, Texas .\nThe police were also called .\nWhen the seller showed up and they determined he almost definitely had the stolen parts, Coria and her husband stalled him while waiting for police to arrive .\nCoria said: 'I took his keys'",
+      "reference": "Cristina Coria's husband's truck was stolen from home in Houston, Texas .\nIt was found the following day but its custom-painted bed had been taken .\nShe went on Facebook and saw an ad for a\u00a02003 Chevy Stepside bed .\nSet up a meeting with the seller and then stalled until police showed up .\nSuspect, 18, is now facing charges for theft and unlawfully carrying a gun ."
+    },
+    {
+      "id": "cf5ab680f6a466103c34ec49f39415b97cceb6f2",
+      "prediction": "Former President Clinton says he doesn't want to play an active role in his wife's campaign .\nHe says he's not angry anymore after becoming a grandfather to Chelsea's baby .\nClinton says he'd like to stay behind the scenes and help his wife win .\nMrs Clinton is widely expected to announce her candidacy in the coming days .",
+      "reference": "Former First Lady Hillary\u00a0Clinton has not announced whether or not she will run for President .\nHer husband says he will support her wishes no matter what - but will take a back-seat role if and when she begins her campaign .\nDuring her 2008 campaign, it was reported that his staffers clashed with her team ."
+    },
+    {
+      "id": "50840a9145146117102ffc823e617400cac27315",
+      "prediction": "Body of Barway Edwin Collins, 10, found in the Mississippi River on Saturday .\nPolice said the boy's father, Pierre Collins, 33, was in that area at the time he disappeared .\nCase is now being considered a homicide based on the autopsy and information from the medical examiner .\nPierre Collins has not been arrested or charged in relation to the incident, but police have his passport to ensure he stays in the country .",
+      "reference": "Barway Edwin Collins, 10, went missing from his Crystal, Minnesota apartment complex March 18 after school .\nOn Saturday, searchers from Boy Scout troop found a body ten feet from Mississippi River's edge which was identified as Barway .\nCrystal Police Chief said electronic evidence shows boy's father Pierre Collins, 33, was in area where body was found at time he disappeared .\nHennepin County Medical Examiner said the cause and manner of Barway's death are still being investigated ."
+    },
+    {
+      "id": "4797cb97383e989c7540e0dca72d0ab0070ef2fd",
+      "prediction": "Asian hornets have killed at least six people in France .\nExperts fear millions of them could be heading for Britain .\nThe threats they pose are to be discussed at a summit meeting by beekeepers .\nOne Asian hornet can kill 40 bees in a minute, while a handful can destroy a hive of 30,000 bees in a couple of hours .",
+      "reference": "Millions of Asian hornets have colonised swathes of French countryside .\nVicious insects mutilate honeybees and prey on beehives to feed young .\nSix people have died in France after suffering allergic reactions to sting .\nMinisters in Britain have drawn up battle plans for any possible invasion ."
+    },
+    {
+      "id": "3556d1d097eb9b866ad4115692dcd432d5ff3b23",
+      "prediction": "Rose Byrne and Gracie Otto launch new film production company .\nBrynne hopes to bring more gender equality into film .\nThe Doll House Collective will collaborate on films, share ideas and advice .",
+      "reference": "Rose Byrne and Gracie Otto star alongside Krew Boylan, Shannon Murphy and Jessica Carrera on new\u00a0film-maker\u00a0group .\nThe new collaboration will support Australian women in the film industry .\nThe Doll House Collective will work together to create and produce films .\nByrne believes it's time for women to be taken seriously in the industry ."
+    },
+    {
+      "id": "3fc79d1edd92630f7b199df53dcb648fdb7944f1",
+      "prediction": "Lib Dem leader says idea of more than two parties forming a government is not 'going to work'\nHe said it would be a 'messy' way to run the country .\nNick Clegg said the idea would risk instability with the future of the government put in peril with every late night vote .",
+      "reference": "Lib Dem leader warns three or four-party coalition 'is not going to work'\nRaises prospect of Lib Dems entering government with Labour or Tories .\nExperts warn hung parliament could send financial markets into turmoil ."
+    },
+    {
+      "id": "4de5712d98b34bef9b4cbfd8dde3abc3c75510fd",
+      "prediction": "Iranian girl has spent more than a year in Australia's offshore Nauru centre .\nShe has been prescribed anti-depressants and has self-harmed by swallowing shampoo and nails .\nHer lawyer says she is living in fear of being returned to Nauru .\nHe says she has been diagnosed with post-traumatic stress disorder .\nThe girl's father has applied for a protection visa for his family after fearing for his life and fleeing from the military police in Iran .",
+      "reference": "Lawyers are fighting to stop\u00a0Iranian\u00a0child being sent back to Nauru .\nShe is currently being held at a detention centre in Darwin .\nLawyer John Lawrence says 'she might not be alive' if she's sent back .\nShe wrote her name as her detention number and draws a disturbing self-portrait showing her mouth\u00a0stitched\u00a0up .\nHer family's asylum claim could take three years to process ."
+    },
+    {
+      "id": "a8e3e845e577b03c2f334dea9aefe14d2b3d913a",
+      "prediction": "Floyd Mayweather vs Manny Pacquiao advert released .\nBoth fighters walk towards each other and square up in the middle of a desert road .\nThe fight is expected to break the pay-per-view record of \u00a3102m set by Mayweather's fight with Saul 'Canelo' Alvarez in September 2013 .\nPay-per-view watchers in America will have to pay up to $100 (\u00a367.48) to watch the fight .\nThose in the UK, however, will pay less - Sky won the bidding war to screen the fight on British shores, and customers will be charged \u00a319.95 for access .",
+      "reference": "The official advert for the pay-per-view fight has been released .\nFloyd Mayweather and Manny Pacquiao meet on May 2 in Las Vegas .\nThe advert shows them squaring up with the MGM Grand visible behind .\nAmir Khan: Mayweather and Pacquiao haven't heard of Kell Brook .\nFreddie Roach: Pacquiao WILL knock Mayweather out .\nCLICK HERE for all the latest Mayweather vs Pacquiao fight news ."
+    },
+    {
+      "id": "8c5565e00e3e194bbee139f3a1bf2281c7bac6cb",
+      "prediction": "Danny Garcia will fight Lamont Peterson in a non-title bout on Saturday .\nThe 27-year-old has a 29-0 record and currently holds three world titles .\nGarcia revealed he has an extra toe on his right foot during an interview .\nHe says his extra toe helps him stay balanced and never get knocked down .",
+      "reference": "Danny Garcia is set to face Lamont Peterson in Las Vegas on Saturday .\nThe unbeaten light welterweight champion defeated Amir Khan in 2012 .\nThe US fighter revealed he always stays on his feet because of an extra toe ."
+    },
+    {
+      "id": "395b00af7c712b4dd1e44a62f0696ad9330702cc",
+      "prediction": "Laurent Blanc admits PSG were inferior to Barcelona .\nBarcelona won 3-1 at the Parc des Princes on Wednesday .\nLuis Suarez scored twice and Neymar once for La Liga leaders .\nPSG will now travel to the Nou Camp on Tuesday night .",
+      "reference": "Barcelona have one foot in last four after beating Paris Saint-Germain 3-1 .\nLuis Suarez scored a double and Neymar was on target in convincing win .\nLaurent Blanc made no excuses for his side's defeat on Wednesday .\nPSG travel to Barcelona for the return leg on March 21 ."
+    },
+    {
+      "id": "12e9e9febb497a277b611f8dcf2f8aa14fa0c7e9",
+      "prediction": "David Raven scored the decisive goal in extra time .\nCeltic were beaten by Inverness in the semi-finals .\nRaven described the win as a 'dream come true'\nInverness will face Falkirk in the William Hill Scottish Cup final .",
+      "reference": "Inverness upset Celtic 3-2 in the Scottish Cup semi-final on Sunday .\nCaley defender David Raven scored the winning goal in extra time .\nThe 30-year-old has hailed his wining strike as a 'dream come true'"
+    },
+    {
+      "id": "2d896bc51bc066ffe6148f13a43bd779ccebdb4b",
+      "prediction": "Dave Roberts, 50, is running for mayor of Middlesbrough .\nHe bungee jumped off Transporter Bridge over the River Tees .\nHis great-great-uncle Daniel McAllister died after jumping off the same bridge in 1913 for a bet worth just a sixpence .\nMr Roberts said he was 'thrilled' to survive the jump .\nHe asked Teesside residents to stump up \u00a32.50 to support him .",
+      "reference": "Dave Roberts, 50, bungee jumped from Transporter Bridge over River Tees .\nHis great-great-uncle Daniel McAllister jumped to his death at same spot .\nMr McAllister jumped off bridge in drunken bet for sixpence 100 years ago .\nMayoral candidate Mr Roberts successfully completed the jump for charity ."
+    },
+    {
+      "id": "012819ffa2547138101055add33deebe7beaa3d4",
+      "prediction": "Taliban biography says mullah still leads group .\nBiography released to counter rumors of Omar's death .\nOmar was blinded in right eye during fighting against Soviets .\nAfghanistan's former Taliban insider: Biography aims to reassure world Omar is alive .",
+      "reference": "Mullah Omar, the reclusive founder of the Afghan Taliban, is still in charge, a new biography claims .\nAn ex-Taliban insider says there have been rumors that the one-eyed militant is dead ."
+    },
+    {
+      "id": "4e1d07afa5472fd4cabbf3c425e362b11e5088c5",
+      "prediction": "Karlis Bardelis, 30, from Latvia, was attempting to scale the cliff in Coire an Lochain, Scotland .\nFootage from a camera mounted to his helmet shows the very second that his climbing axe came loose .\nHe said: 'I was just thinking \"I hope I land somewhere soft and don't break any bones\"'",
+      "reference": "Karlis Bardelis, 30, was scaling the cliff face in Coire an Lochain, Scotland .\nCamera shows his axe come loose sending him tumbling down the cliff .\nHe's eventually rescued by safety rope after a falling 10m in 3.5 seconds .\nLatvian Bardelis remarkably escaped injury and continued with his ascent ."
+    },
+    {
+      "id": "66fe5722d222324b82a5b1a68592e4943a6b309e",
+      "prediction": "Jermain Defoe scored a stunning 20-yard volley to beat Newcastle .\nDefoe admitted the joy of scoring the winner was too much to take in .\nSunderland boss Dick Advocaat said the win was the first under his management .\nDefoe has scored just two goals for Sunderland since joining in January .",
+      "reference": "Jermain Defoe scored a superb dipping volley against Newcastle to secure a 1-0 win for Sunderland in the Wear-Tyne derby .\nThe 32-year-old believes that the goal has vindicated his decision to return to the Premier League from MLS side FC Toronto .\nDefoe has compared the feeling of scoring the winner in the derby to scoring for England at a World Cup .\nSunderland have beaten Newcastle in their last five consecutive meetings ."
+    },
+    {
+      "id": "8bad107492e048a87cefcc4cb8985260d4506722",
+      "prediction": "Nigel Benn returns to the ring after a break .\nThe former super middleweight champion joins in a playful pad session with Ricky Hatton at his Manchester gym .\nBenn lands a series of punches, including one that sees Hatton's glove fly off .\nHatton is now a boxing trainer and could train Conor Benn, Nigel's son, ahead of the 2016 Olympics in Rio .",
+      "reference": "Nigel Benn and Ricky Hatton returned to the ring for a spot of pad work .\nThe 'Dark Destroyer' shows he still has what it takes with a series of hits .\nHe returned from Australia to meet up with Hatton at his Manchester gym .\nBenn is hoping Hatton will train his son ahead of 2016 Olympic\u00a0campaign ."
+    },
+    {
+      "id": "726c1b40aa0e71a65e09fd93bbf9c1d3723d54ae",
+      "prediction": "Harriet Harman, Labour's deputy leader, accused the Tories of being 'completely out of touch'\nShe has repeatedly accused the Tories of being 'completely out of touch'\nMr Osborne said that as they both went to St Paul's School in London, 'the posh boy attack always sounds a bit thin'",
+      "reference": "Tory Chancellor mocks Labour's deputy leader as they share TV sofa .\nHarman refused to row back from 'posh' attacks on the Conservatives .\nInsisted Tories are 'standing up for people at the top' while others suffer .\nOsborne says that as ex-pupils of St Paul's, the 'attack sounds a bit thin'"
+    },
+    {
+      "id": "6c8aab117d94c6460771783723d581805e98754c",
+      "prediction": "Jack Grealish has been photographed inhaling from a white balloon .\nThe 19-year-old midfielder starred for Aston Villa in their FA Cup semi-final win over Liverpool on Sunday .\nGrealish is the third Premier League starlet this month to be exposed apparently using the legal high .",
+      "reference": "Raheem Sterling was filmed inhaling laughing gas less than two weeks ago .\nSaido Berahino was another England starlet filmed inhaling 'hippy crack'\nJack Grealish inspired Aston Villa to their FA Cup semi-final win on Sunday .\nThe 19-year-old has seemingly been caught  inhaling from a balloon ."
+    },
+    {
+      "id": "36d43d6b65bc93a21a3e2bce61ed660686a8d657",
+      "prediction": "Frank Lampard has only featured in eight games for Manchester City .\nPhil Jagielka is five games away from going a complete season without a yellow card .\nTom Cleverley has found a steely edge since Tim Sherwood took charge at Aston Villa .\nDidier Drogba covered more ground at sprint speed than Radamel Falcao .\nMesut Ozil provided the assist for both of the Alexis Sanchez goals against Reading .\nIpswich still need to win at least one game to be sure of finishing in the top six .\nMK Dons youngster Dele Alli won the Football League Young Player of the Year Award .",
+      "reference": "Man City have won seven of the eight games Frank Lampard has started .\nPhil Jagielka is five games away from a complete season without a booking .\nDidier Drogba proved he can still do a job for Jose Mourinho's Chelsea .\nTim Sherwood is getting the best out of Tom Cleverley ."
+    },
+    {
+      "id": "bb8b3da60b55334774473326f898045ecaf643ab",
+      "prediction": "Nigel Pearson insists Leicester must stay realistic about their chances .\nThe Foxes need to beat Swansea and hope Burnley do not win at Everton .\nBurnley have collected eight points from eight games but have lost six .\nEverton are unbeaten in four matches at Goodison Park this season .",
+      "reference": "Leicester remain at the foot of the Premier League table after 31 games .\nFoxes recently defeated West Ham and West Brom in consecutive games .\nManager Nigel Pearson insists survival is far from 'straightforward'"
+    },
+    {
+      "id": "f1659291699405fb2cfd7c3175af8e4f8797b57e",
+      "prediction": "Eloise Aimee Parry, 21, died after taking the 'miracle' diet pills .\nThe drug contains a toxic chemical used in pesticides and explosives .\nUnscrupulous dealers in the UK and abroad are selling the drug online .\nSome promise next-day delivery, while others even offer free samples .\nFive other people have died since 2008 after taking the pills .\nFiona Parry, mother of the victim, says the drug was simple to concoct .",
+      "reference": "Potentially fatal drug contains chemical used in pesticides and explosives .\nDespite the dangers, the drug can be bought cheaply and easily online .\nMost recent victim is 21-year-old Eloise Aimee Parry who died this month ."
+    },
+    {
+      "id": "70425f818e0a44781fd9effd848048ef4424a32a",
+      "prediction": "Sudheer Khamitkar, 42, shot his 38-year-old wife, Smita Haval Khamitkar, and their sons Arnav Khamitkar, 10 and Arush Khamitkar, 6 .\nTheir bodies were found on Wednesday as officers conducted a welfare check requested by the mother's employer after she failed to show up for work or call in sick for two days .\nPolice say there was no indication of forced entry and no suspects are being sought .\nThey are still searching for a motive .",
+      "reference": "Sudheer Khamitkar, shot his wife, Smita Haval Khamitkar, and their sons Arnav Khamitkar, 10 and Arush Khamitkar, six, earlier this week .\nTheir bodies were found after Mrs Khamitkar's employers, American Airlines, requested a welfare check when she failed to turn up to work .\nPolice say they still do not have any motive but are speaking to Mr\u00a0Khamitkar's employers; he recently switched jobs, they said ."
+    },
+    {
+      "id": "12cba31d41d59d854f5f7f3ba3741099e82f6b7f",
+      "prediction": "Christian Eriksen was spotted kissing girlfriend Sabrina Kvist in Soho .\nThe pair have been together for almost three years .\nEriksen has scored just once since January despite starting this season well .\nSpurs sit seventh in the Premier League after a poor start to the campaign .",
+      "reference": "Christian Eriksen was spotted with girlfriend Sabrina Kvist Jensen .\nThe pair were pictured enjoying a kiss in outside in Soho, London .\nThe Tottenham midfielder has been dating Kvist for almost three years .\nEriksen played the full game as Spurs lost to Aston Villa on Saturday ."
+    },
+    {
+      "id": "8429c8c4d0efb596395da9285d572fb1ce18c11f",
+      "prediction": "Michelle Keegan is named the sexiest woman in the world .\nKeegan is best known for her roles on \"Ordinary Lies\" and \"Coronation Street\"\nThe list also includes Kendall Jenner, Jennifer Lawrence, Kate Upton and Caroline Flack .",
+      "reference": "British actress takes FHM's top spot in the list of 100 sexiest women in the world .\nPeople's most beautiful woman is nowhere on the list ."
+    },
+    {
+      "id": "c85be20ec9b5b59a15655fb594117536915f2877",
+      "prediction": "Manchester United beat Aston Villa 3-1 at Old Trafford .\nWayne Rooney scores his 14th league goal of the season .\nAnder Herrera scores twice and Ashley Young adds a third .\nManchester United are now top of the Premier League .\nManchester City are two points behind on goal difference .\nVan Gaal says City will struggle to get to grips with fourth place .\nManchester United face Crystal Palace on Monday night .",
+      "reference": "Louis van Gaal cranked up the pressure on Man City after Aston Villa win .\nManchester United defeated Aston Villa 3-1 at Old Trafford on Saturday .\nThe Red Devils leapfrogged Manchester City to move up to third spot .\nUnited have not recorded a home win against City since February 2011 ."
+    },
+    {
+      "id": "a100457d4d30df09c36c3996a422494439ff1e1e",
+      "prediction": "The video, taken from a plane yesterday, shows the the Falcon 9 booster lowering itself onto the platform .\nA gust of wind sways it to one side and the booster explodes on impact .\nThe maneuver was attempted following the launch of the Falcon 9 rocket a few minutes earlier from Cape Canaveral in Florida .\nBillionaire SpaceX founder, Elon Musk, tweeted: 'Ascent successful. Dragon enroute to Space Station. Rocket landed on droneship, but too hard for survival'\nLanding the rocket upright was always going to be tricky .\nMusk had put 50-50 odds on the attempt being successful and said that improvements to the design would happen throughout the year .",
+      "reference": "SpaceX made its third attempt to land a booster on a barge yesterday .\nBut the\u00a0booster tipped over after hitting its target and was destroyed .\nFalcon 9 is on its way to the ISS with supplies and will arrive Friday .\nCargo includes first espresso machine designed for use in space ."
+    },
+    {
+      "id": "f9f5d81bc74d6cf6d713d6fa6be4a30427b46e68",
+      "prediction": "NEW: Kim Ki-Jong charged with attempted murder .\nKim Ki-Jong also charged with assaulting a foreign envoy and business obstruction .\nAmbassador Mark Lippert was stabbed March 5 during an event in Seoul .\nLippert suffered a gash from his right cheekbone to his lower jaw .",
+      "reference": "Kim Ki-Jong is charged with attempted murder and assaulting a foreign envoy .\nHe's accused of stabbing U.S. Ambassador Mark Lippert in the face and arm .\nPolice said Kim opposed the joint U.S.-South Korean military drills ."
+    },
+    {
+      "id": "c321a5cb60d43f44196f87da2b6da15670895fce",
+      "prediction": "Liverpool face Blackburn Rovers in the FA Cup semi-finals .\nBrendan Rodgers' side are chasing a fourth-place finish in the Premier League .\nSteven Gerrard and Mario Balotelli are Liverpool's top scorers .\nKolo Toure is expected to start in place of the suspended Martin Skrtel .\nDejan Lovren may also be given the chance to impress at Ewood Park .\nLiverpool will be hoping to replicate their 2001 FA Cup triumph .",
+      "reference": "Liverpool take on Blackburn Rovers in FA Cup semi-final replay .\nFA Cup success appears to be final chance of glory this season .\nReds look set to miss out on Champions League spot after recent defeats ."
+    },
+    {
+      "id": "5d770f47cc422b6b26bad2e44f2d7fe932cb7cd7",
+      "prediction": "Australian historian Dr Jim Penman claims Britons today have lost the drive for innovation that epitomised the Victorian era .\nHe has drawn parallels between modern-day Britain and 100BC in Rome - when the city was at its most powerful as it captured more land overseas and greater wealth poured into the centre .\nOver subsequent centuries there was a rise in social divisions, inequality and political tensions - which resulted in its demise .",
+      "reference": "Dr Penman argues British people have lived too peacefully to innovate .\nRising inequality and division will lead to a collapse in society, he warns .\nAdaption of genes means we are less aggressive or likely to go to war ."
+    },
+    {
+      "id": "a9c1f5fdb0f7a9b42e268ce547c270eadd3eb483",
+      "prediction": "NEW: Police say five police cars were damaged .\nNEW: Police say 12 people were arrested .\nFredericka Gray says her family wants to stop the violence .\nThe protests follow the death of Freddie Gray .",
+      "reference": "Twin sister of Freddie Gray asks for people to stop breaking things, scuffling with cops .\nFans are permitted to exit Camden Yards after briefly being told to stay put .\n12 people arrested during protests, police commissioner says ."
+    },
+    {
+      "id": "4bc015af3f4ec8fa09aa3c354965dbf652ff6c9b",
+      "prediction": "Violence has spread to Johannesburg, threatening more killings .\nSix people have been killed so far, and dozens of foreign nationals have fled .\nPolice fired tear gas and rubber bullets to disperse the crowds .\nPresident says attacks are a violation of South Africa's values .\nThousands marched in Durban today calling for an end to the violence .",
+      "reference": "Anti-immigrant protests have been ongoing in South Africa for two weeks and at least six people have been killed .\nCarol Lloyd was injured after rocks were thrown at and smashed her car window as she drove near to Jeppestown .\nForeign nationals have been loading trucks with their wares as they flee  Johannesburg and neighbouring towns .\nProtesters are angry about  foreigners in the country when unemployment is high and wealth isn't distributed equally ."
+    },
+    {
+      "id": "f559c6106e4593549a2f3d6737374c4e2be1f521",
+      "prediction": "Jonny Bucknell, 58, was eating a roast duck dinner in Camden Council .\nHe was spotted by Labour rival Theo Blackwell and forced to stop .\nMayor Lazzaro Pietragnoli told him to stop eating .\nBucknell says he didn't know there was a ban on eating in the chamber .\nHe says he will campaign for a rule change so he can eat a roast dinner .",
+      "reference": "Labour rival alerted colleagues after spotting councillor tucking into roast .\nIt is not the first time Jonny Bucknell, 58, has demonstrated odd behaviour .\nIn 2013 he\u00a0slept in his car to make a point while attending Tory conference .\nMr Bucknell said he will campaign for rule change about eating at meetings ."
+    },
+    {
+      "id": "c511528d536765ec874a4c332f929f2f3d674f29",
+      "prediction": "Cesc Fabregas took to Instagram to show off the shiners he picked up .\nThe Chelsea midfielder was caught in the face by Stoke City midfielder .\nCharlie Adam's flailing arm during their Premier League clash .\nFabregas was left bloodied and required medical treatment .\nHowever, the Spaniard was all smiles on Tuesday as he posted a picture .\nto his Instagram account with the caption: 'Italy with Dr Paco'",
+      "reference": "Cesc Fabregas was caught by trailing arm of Stoke City ace Charlie Adam .\nFormer Barcelona man picked up the injury during Chelsea's home win .\nMidfielder Adam scored wonder goal during the game but it wasn't enough .\nFabregas took to Instagram to show he was all smiles despite the bruises .\nCLICK HERE for all the latest Chelsea news ."
+    },
+    {
+      "id": "77d9f43e5feb57c12e329877f175bd92946fad11",
+      "prediction": "Alfie the Yorkshire terrier was dumped 120 miles from his home .\nRSPCA inspector pulled over when dog ran into her van and started barking .\nHe then leapt in and started licking her face appreciatively .\nInspector said: 'I have never been flagged down by a dog in need'",
+      "reference": "Alfie taken when burglars raided Kirsty Mitton's home in West Midlands .\nLater ran out in front of inspector's car 112 miles away in Gerrards Cross .\nHe leapt inside after inspector opened door and his chip\u00a0revealed identity .\nOwner says safe return of seven-year-old dog has left her\u00a0'over the moon'"
+    },
+    {
+      "id": "a29d2904e0119597df989d72b4716316f2bd3579",
+      "prediction": "Ben Stokes was at the centre of everything on a hard-fought first day .\nStokes injured himself during the game and was treated on the field .\nHe was also involved in a heated dispute with Marlon Samuels .\nThe Durham all-rounder went wicketless in 32 overs in the first Test .\nEngland won the toss and opted to bat first in the second Test .\nJames Anderson took the new ball and bowled the first over .\nKraigg Brathwaite fell to the veteran fast bowler's huge in-swinger .\nDevon Smith was given out for an edge off Chris Jordan .\nMarlon Samuels and Jermaine Blackwood were dismissed by England .\nSamuels was involved in a heated exchange with Ben Stokes .\nStokes was admonished by umpire Steve Davis for his actions .",
+      "reference": "Marlon Samuels on 94 not out at stumps after being dropped on 32 on day one of the second Test .\nBen Stokes was admonished by the umpire Steve Davis after a heated exchange with Samuels in Grenada .\nChris Jordan took two wickets while James Anderson, Stokes and Stuart Broad all claimed one each .\nReplays showed opener Devon Smith clearly missed the ball when he was dismissed by Jordan .\nCaptain\u00a0Denesh Ramdin and Samuels will resume on day two at National Cricket Stadium in St George's ."
+    },
+    {
+      "id": "4dedd2dff788cf96fc7cf6073d5ea19219d7a682",
+      "prediction": "Robert Bates, 73, was charged with second-degree manslaughter .\nBates said he mistakenly pulled out a handgun instead of a stun gun .\nAidan Fraley, 16, says his father's killer should never have been on the force .\nHis mother has already forgiven her killer, but his son is not ready to forgive .",
+      "reference": "Aidan Fraley, 16, says his father Eric Harris' killer Robert Bates should never have been allowed to work as a Tulsa deputy .\nFraley says the police at the scene and those who allowed Bates on the streets are to blame but his mother Cathy Fraley says she forgives Bates .\nBates has said he mistakenly pulled out a handgun rather than a stun gun when he fatally shot Eric Harris on April 2 as he lay on the ground ."
+    },
+    {
+      "id": "a3a07d7a5721f4c907a832fc9cd704bbf7a79ee0",
+      "prediction": "Alex Oxlade-Chamberlain is represented by his father, former England international Mark .\nCalum Chambers is on the books at Cassius Sports Management; his stepfather works for the company too .\nDanny Welbeck has long been looked after by his brothers Chris and Wayne .\nJack Wilshere\u2019s father Andy remains the major influence on his son\u2019s career .\nKieran Gibbs also has a soon-to-be family adviser in his mother Donna\u2019s fiance Andy Harris .",
+      "reference": "Arsenal players are choosing to employ their relatives as agents .\nFIFA have washed their hands of attempts to regulate middle-men .\nAlex Oxlade-Chamberlain, Calum Chambers, Jack Wilshere, Kieran Gibbs and Danny Welbeck are among those to use the policy .\nLiverpool club secretary Stuart Hayton is leaving Anfield after  two seasons ."
+    },
+    {
+      "id": "f1160c4b694b854dc8a0b22d86de44824d62a391",
+      "prediction": "Sandra Malcolm's body was found at her Cape Town home .\nHer grandson reportedly climbed through a window when nobody answered the door .\nPolice have yet to confirm if her attackers had mutilated her .\nMrs Malcolm, originally from Dundee in Scotland, was found on Sunday morning at the Capri Mews complex in the Marina Da Gama area of the city .\nShe had been planning to return to Scotland next month to visit family in Tayside .",
+      "reference": "Reports suggest Sandra Malcolm's body was mutilated by her attackers .\nPensioner, originally from Dundee, was found at her home in Cape Town .\nHer grandson made the discovery after climbing through a window when nobody answered the door ."
+    },
+    {
+      "id": "eda6612e304b5afded427bdb24507a026f5216c2",
+      "prediction": "Thomas Muller says Bayern Munich are stronger after recent injury woes .\nBavarians face Porto in Champions League quarter-final on Wednesday .\nArjen Robben, Franck Ribery, Bastian Schweinsteiger and David Alaba all out .\nPep Guardiola says Bayern will try their best despite the injuries .",
+      "reference": "Bayern are in Portugal to face Porto in Champions League quarters .\nRobben, Ribery, Schweinsteiger and Alaba are all out through injury .\nBut Muller believes these problems have brought the team closer together .\nPep Guardiola's side have looked untroubled by their absence .\nThey have a big lead in the Bundesliga and progressed in the Cup ."
+    },
+    {
+      "id": "a8daac45b2e94067747d0bbd822cc8041987522b",
+      "prediction": "Manchester City boss Manuel Pellegrini says he is not impressed by United's rise .\nPellegrini says United's expensive signings such as Angel di Maria and Radamel Falcao are key to their success .\nCity have lost five of their last seven games in all competitions and have not won away since mid-February .\nThey are currently fourth in the Premier League after a 2-1 defeat at Crystal Palace on Saturday .",
+      "reference": "Manuel Pellegrini has played down the form of Manchester United .\nHe feels United were always expected to do well given their transfers .\nPellegrini is hoping to end a terrible run of form with Manchester City .\nCity have lost five of their last seven games in all competitions .\nThe two Manchester sides meet in the league on Sunday at Old Trafford ."
+    },
+    {
+      "id": "cee1c2efe137471fee7a744597fdc425f2d067f8",
+      "prediction": "Motaz Zaid, 20, was with a friend in south west London in the early hours of Friday .\nThe pair were sprayed with ammonia and assaulted with tools before Mr Zaid was bundled into a Mercedes C220 Estate and driven off .\nHis friend, who wishes to remain anonymous, was stabbed several times in the back and legs during the ordeal .\nMr Zaid was found dumped a few miles away, close to the A3 on the border of New Malden and Parsons Green .\nPolice became alerted to the incident after spotting the vehicle in Beverley Way, Kingston, at about 1am .\nUniformed officers approached the stationary car, but it drove off and fled from the scene despite attempts by police to pursue it .\nOfficers then discovered Mr Zaid dumped on the side of the road with life-threatening injuries .\nHe was taken to a south London hospital, which cannot be named for security reasons, where he remains in a critical condition .",
+      "reference": "Motaz Zaid, 20, apparently kidnapped,\u00a0tortured\u00a0and forced to drink bleach .\nHe was bundled into a Mercedes C220 Estate, attacked and later dumped .\nPolice found him at the roadside in south west London with critical injuries .\nOfficers now hunting gang of masked raiders accused of the horrific attack ."
+    },
+    {
+      "id": "6abffbb0dd9414c23e462ebd66a048f67ab70d68",
+      "prediction": "Police were called to disperse over 200 teenagers just before 10pm .\nThe violent conflict was captured by Queensland Police helicopter, PolAir .\nFour people have been arrested over the incident, including a 20-year-old Goodna man who was charged with public nuisance, obstructing police and possession of tainted property .",
+      "reference": "Footage of a brawl involving 70 teenagers has been released .\nThe fight happened on Tuesday outside a community centre in Brisbane .\nOwners were told that 30 people were attending but more than 200 arrived .\nThe violent fray was captured by police helicopter footage .\nFour people have been arrested over the incident and will appear in court ."
+    },
+    {
+      "id": "ff35a5f718f1edebd1a870d70e270f92c1e690e4",
+      "prediction": "Phillips had travelled to the United States with her London 2012 and 2014 World Equestrian Games Great Britain team silver medal-winning ride High Kingdom .\nBut Phillips, The Queen's granddaughter, withdrew before her scheduled dressage test at Kentucky Horse Park .\nThe horse was being tacked up in his stable ahead of its early evening test, UK time, when it kicked out and suffered a cut leg .\nHigh Kingdom was then taken to the dressage warm-up area, but the decision was taken to withdraw him in the horse's best interests .",
+      "reference": "The Queen's granddaughter had been set to make her Kentucky debut .\nBut High Kingdom suffered injury in stables and had to withdraw .\nZara Phillips still hopeful the horse can competed at Badminton ."
+    },
+    {
+      "id": "a36ff64c7a7f498efa526a495bd7a9976fec523a",
+      "prediction": "New study by Edge Hill University found a direct link between anxiety and performance .\nPrincipal at Burlington Danes Academy Michael Ribton says parents should pin their offspring's revision timetable on the fridge and really engage with them during the lead up to the stressful exam period .\nHe says parents should also ask their children to explain their work to them and test them on anything they need to learn by rote .\nRibton says parents should also ensure their children eat well and exercise together on the weekends .",
+      "reference": "New research finds direct link between exam stress and performance .\nLondon headteacher Michael Ribton says revision plans, flashcards and cram techniques can all help children prepare for the exam season .\nHe advises parents that extra tuition and bribes shouldn't be necessary ."
+    },
+    {
+      "id": "a60dc1d59fa2706939a3b4c42a1564ef9880bf4d",
+      "prediction": "Radio host Maria Lucia revealed her year-long battle with alleged stalker .\nShe said she would be taking some time off from the station following ordeal .\nPatrick Henry Kelly, 56, has been charged in the case and is due to go on trial next week .",
+      "reference": "Twin Cities radio host Mary Lucia wrote a letter to her fans on Wednesday saying she would be taking some time off work following her ordeal .\nShe described how she has 'constantly been looking over my shoulder' after a stranger began contacting her incessantly from March 2014 .\nPatrick Henry Kelly 'repeatedly called her at work and home and wrote her letters saying they should be together'\nHe 'left gifts including wine, candles, a calculator and food at her home'\nAfter repeatedly violating a restraining order she had taken out against him, he was charged last year and goes on trial next week ."
+    },
+    {
+      "id": "b185b68c83a9f1c3fb8619451f212a599fb77d2a",
+      "prediction": "Tesla was on the verge of bankruptcy in early 2013 .\nMusk contacted Google co-founder Larry Page about a possible deal .\nPage declined to comment on the matter, but told Vance that a 'car company is pretty far from what Google knows'\nBut Page, Vance reported, 'accepted the overall proposal' and the two sides began negotiating specific points .\nTesla's fortunes changed suddenly in May 2013 when the company reported its first profit after an intense drive overseen by Musk to address technical glitches yielded a sudden jump in Model S orders .",
+      "reference": "The technology billionaire pursued a sale of struggling electric-car company Tesla to Google in 2013 for $6 billion .\nMusk demanded that he be permitted to run Tesla as a unit of Google for eight years, or until Tesla produced a third-generation car .\nNegoitations promptly ended in May 2013 when his company unexpectedly yielded its first profit and he no longer needed the finanical support .\nThe claims are made in the new biography Elon Musk: Tesla, SpaceX And The Quest For A Fantastic Future ."
+    },
+    {
+      "id": "ef283a5c71c6d6c7fcb8e7329089abcbf43fc162",
+      "prediction": "Brazilian defender is out of contract this summer .\nRumours suggest he could leave Barcelona this summer .\nManchester United and PSG are reportedly interested in signing him .",
+      "reference": "Barcelona star Dani Alves is out of contract at the end of the season .\nBrazilian defender is yet to agree a new deal with Luis Enrique's side .\n31-year-old insists he hasn't agreed any deal with another club .\nREAD: Will Dani Alves be at Man Utd next season?\nCLICK HERE for all the latest Manchester United news ."
+    },
+    {
+      "id": "497585e636790d661b58456b729a0abd764f096b",
+      "prediction": "Winning punter, who comes from Mittagong in southern NSW, discovered his good fortune on Tuesday .\nHe said he and his wife had been 'struggling' before the win .\n'This first division win is going to make our lives so much easier,' he said .",
+      "reference": "The winner comes from Mittagong in southern New South Wales .\nHe and his wife had been 'struggling'with 'bad times' before the win .\nTwo entries won the first division share of the $40 million jackpot draw ."
+    },
+    {
+      "id": "a87b3ba950b1706492901c2c6e098c3543a6315b",
+      "prediction": "Madeline Luciano allegedly encouraged pupils to write nasty words .\nBut she claims she was trying to teach them not to bully others .\nShe is now suing the city's education department over the incident .",
+      "reference": "Madeline Luciano was fired after an investigation into the incident last June .\nBut New York teacher claims the exercise was meant to stop the bullying .\nLuciano, 40, has launched court action to get her teaching licence back ."
+    },
+    {
+      "id": "17c80ce62c082281957473d3e7b53e4c88a6203d",
+      "prediction": "Barcelona passed 400 Champions League goals in 202 matches .\nLuis Suarez scored both goals against PSG in the second leg .\nThe pair have now scored 10 goals in the competition together .\nReal Madrid are the record holders with 436 goals in the competition .",
+      "reference": "Barcelona have now scored 401 goals in the Champions League .\nA double from Luis Suarez and another from Neymar beat PSG 3-1 .\nCatalan side have achieved the feat in 202 matches since 1992 .\nBut they have some way to go to catch the 436 of Real Madrid ."
+    },
+    {
+      "id": "5996f61a21cd0daf622f08b7cf744f7a79016aa7",
+      "prediction": "John Moore's images of the Ebola outbreak in Liberia were named the best .\nThe Sony World Photography Award winners were announced in London .\nMr Moore's images earned him the top gong, as well as first place in the Current Affairs category .\nOther photo projects submitted for consideration included children playing football in one of Argentina's most dangerous slums .",
+      "reference": "Getty Images photographer John Moore received the industry's top gong last night for his incredible photographs .\nHis pictures show the horror and heartbreak of the deadly Ebola virus as it ravaged West Africa last year .\nThe expert judging panel said his photographs conveyed the situation with 'heart, compassion and understanding'\nHe was named the winner from group of 13 photographers across categories that included landscapes and culture ."
+    },
+    {
+      "id": "e9a25dc8363e827d4ba03774b7b603eae189e4df",
+      "prediction": "Danny Eckhart was drunk when he took the patrol boat out on the river .\nHe crashed it into a riverside bar and grill in Madisonville .\nEckhart faces charges of unauthorized use of a vehicle and operating a vehicle while intoxicated .",
+      "reference": "Danny Eckhart, a reserve officer from St. Tammany Parish in Louisiana, was arrested Saturday and stripped of his commission .\nAuthorities say he drunkenly took a patrol boat out on the Tchefuncte River then crashed it into T-River bar and restaurant .\nSt. Tammany Parish police say he was not on duty. He's been charged with unauthorized use of a movable and operating a vehicle while intoxicated ."
+    },
+    {
+      "id": "ced684f828303e87a30b19ae64d28018c7be81f7",
+      "prediction": "Helaman Barlow, who was chief of the bordering towns of Colorado City, Arizona, and Hildale, Utah, says he is revealing the secrets after leaving the church behind .\nHis account comes amid reports that Jeffs continues to direct the Fundamentalist Church of Latter-Day Saints despite being in prison for marrying and raping two 12-year-old girls .\nOther accounts say that some of its former adherents - including Barlow - are turning their backs on the church and changing the towns by setting up public schools and auctioning off property .",
+      "reference": "Helaman Barlow was police chief of twin towns of Colorado City, Arizona, and Hildale, Utah but admits he did things he now regrets .\nHe said he knew of underage marriages happening in the community and was asked by church leaders to change police reports .\nHe also recorded conversations with law enforcement and passed them on to Jeffs when he was on the run and being sought by the FBI .\nJeffs, the leader of the Fundamentalist Church of Latter-Day Saints, is now serving life in prison for marrying and raping two 12-year-old girls .\nFederal investigators are now suing the towns' governments, accusing them of being controlled by the church ."
+    },
+    {
+      "id": "f611796309704ea03740661131fe6f6534613651",
+      "prediction": "Maickel Melamed, 39, finished the Boston Marathon on Tuesday .\nMelamed, who lives in Massachusetts, is battling muscular dystrophy .\nThe Venezuelan native has completed marathons in several cities .",
+      "reference": "Maickel Melamed, who has muscular dystrophy, took part in the 2015 Boston Marathon .\nHe completed the race 20 hours after the start .\nDespite rainy weather, fans and friends cheered for the 39-year-old ."
+    },
+    {
+      "id": "acc3b35471e8f9589879fc658c02587b71951bd5",
+      "prediction": "Stuart Broad says he is sorry to see Paul Downton leave his role .\nBroad says he is confident Alastair Cook will score big runs in the series .\nHe also says he and Jimmy Anderson are best mates .\nBroad says he is confident Anderson will become England's leading wicket-taker .",
+      "reference": "England start their three Test series against West Indies next Monday .\nStuart Broad is backing captain Alastair Cook to score big runs in series .\nBowler admits he is sorry to see Paul Downton leave role in ECB ."
+    },
+    {
+      "id": "ef52c03e46ff2a2cc4db02978ad1d9762370ace7",
+      "prediction": "John Smith, 45, from Connah's Quay, North Wales, is facing jail .\nHe was found guilty of fraud and conspiracy to commit fraud .\nSmith masterminded the scam by finding drivers who were willing to carry out a fake crash .\nMore than 90% of the claimants involved in the collisions were linked to one another and were mainly said to be friends and relatives of the 12 defendants .\nThe single and double decker buses had been chosen out of 'greed' because of the sheer number of claims that could be lodged .",
+      "reference": "'Crash for cash' fraud involved cars being deliberately driven into buses .\nPassengers - most of whom were friends and relatives - would then claim .\nJohn Smith, 45, from Connah's Quay, orchestrated crashes in Chester area .\nHe processed 218 bogus personal injury claims to no win no fee lawyers .\nConvicted yesterday of fraud and conspiracy to commit fraud after trial ."
+    },
+    {
+      "id": "a8c4bcfd1af3b171f1e994293f151299bed8033b",
+      "prediction": "Michael Scott Shemansky is on the run .\nHe is wanted as a suspect in the murder of his mother Sandra Shemansky .\nThe body of Sandra Shemansky was found at the home they shared in Winter Garden .\nAuthorities say Shemansky failed to appear for a supervised visit with his son on the same day his mother was found dead .",
+      "reference": "Police say Michael Scott Shemansky came to their attention after he failed to appear for a supervised visit with his son Saturday .\nThat same day mother Sandra Shemansky, 57, was found dead at the home they shared in Winter Garden, Florida .\nMichael Shemansky was going through a difficult divorce and neighbors believe the stress may have caused him to snap ."
+    },
+    {
+      "id": "3a4b26eace6aa883b4e63224bc6d576984b013fb",
+      "prediction": "Manchester United are monitoring the Uruguayan striker's situation .\nCavani was furious about being taken off against Marseille at the weekend .\nHis agent says a stint in the Premier League is most likely in the current climate .",
+      "reference": "Manchester United are monitoring Edinson Cavani's situation at PSG .\nUruguayan striker is said to be unhappy about playing out wide in Paris .\nAgent Claudio Anelucci admits a move to England is a possibility .\nRobin van Persie could leave Man United - making room for Cavani .\nREAD: Man Utd consider Cavani as Inter Milan eye Robin van Persie .\nCLICK HERE for all the latest Manchester United news ."
+    },
+    {
+      "id": "ad26f39eea797f8776198d42e4900165f5b77ae2",
+      "prediction": "Labour leader Ed Miliband says he will abolish the 200-year-old rule .\nBut shadow chancellor Ed Balls said scrapping the rules would cost the country money .\nMike Keen, the Labour leader's cousin, said he was 'officially confused'\nHe posted on his public Facebook page asking for help to understand the policy .",
+      "reference": "Mike Keen revealed he was 'officially confused' in public Facebook post .\nEd Miliband vowed to 'abolish' the 200-year-old tax rule for non-doms .\nBut Ed Balls warned in January it would cost the country money ."
+    },
+    {
+      "id": "168d893a015c93c4fd2cdc3ab048a2b351478062",
+      "prediction": "Tom Brady posts message of congratulations to wife Gisele Bundchen .\nBundchen announces retirement from modeling .\nBrady and Bundchen have been married since 2009; they have two children .",
+      "reference": "Tom Brady to Gisele Bundchen: \"You inspire me every day\"\nBundchen had last runway show Wednesday .\nShe'll be focusing more on family, \"special projects\""
+    },
+    {
+      "id": "b73c0471fe415de3e3a45bfc0df84857fe370f9b",
+      "prediction": "Gregg Manderson, 68, of St Paul, Minnesota, has suffered from songs stuck in his head for weeks .\nHe has also hallucinated the theme song to the western 1950s television show Cheyenne .\nDoctors say the condition may be linked to his service in the Vietnam War .",
+      "reference": "Gregg Manderson, 68, of St Paul, Minnesota, has auditory hallucinations .\nHe sought help for Condition  last May when\u00a0lullaby\u00a0Twinkle, Twinkle Little Star crept into his head .\nSongs, which have included  police sirens, last for about a month, but for years he has heard a bugle call that could be linked to his time in Vietnam .\nManderson originally didn't know .\nTheme song to the 1950s Western show Cheyenne also often in his mind ."
+    },
+    {
+      "id": "e01ab56f3f5e8da0ad856fe014317ee2eddd8e50",
+      "prediction": "Spring Heeled is one of three contenders to be named for the Grand National .\nThe eight-year-old won the Fulke Walwyn Kim Muir Challenge Cup at Cheltenham last year .\nScholfield has ridden in six Nationals and finished third in 2013 on Teaforthree .",
+      "reference": "Nick Scholfield is lined up to ride Spring Heeled in the Grand National .\nThe famous race takes place at Aintree on April 11 .\nScholfield travels to Ireland to sit on Spring Heeled on Friday ."
+    },
+    {
+      "id": "d177f1783d9491cfdaa3277037f990ef8bd1ff4a",
+      "prediction": "Cubs fans were forced to pee into plastic cups as lines for the bathroom at Wrigley Field stretched through the concourse and out into the stands .\nThe bathroom debacle caused people to wait more than one hour to get to one of only two working bathrooms .\nAccording to those who were there, some were left with no choice but to relieve themselves while standing in line .\nTraumatized fans uploaded pictures to social media showing the intense queues and plastic glasses filled with urine .",
+      "reference": "Furious fans uploaded pictures to social media of huge lines for bathroom .\nSome left with no choice but to use plastic cups to relieve themselves .\nWrigley Field is undergoing huge renovation - its first overhaul in 80-years .\nTwo bathrooms flooded - forcing thousands to queue for over an hour ."
+    },
+    {
+      "id": "60dab13c3941662b3233777aa80528944a8576f3",
+      "prediction": "World No 99 Aljaz Bedene knocked out Arthur De Greef in just 70 minutes .\nBedene will now face third seed Jiri Vesely, who saved a set-point against Mikhail Youzhny .\nTop seed and defending champion Guillermo Garcia-Lopez lost 6-3, 6-3 to Morocco's Lamine Ouahab .",
+      "reference": "Slovenian-born Aljaz Bedene defeated Belgium's Arthur De Greef .\nBedene will face Jiri Vesely after beating Arthur De Greef in 70 minutes .\nThe 25-year-old switched allegiance from Slovenia to Britain in March ."
+    },
+    {
+      "id": "b4663e481991e93d99f65af67fdf6c7695f730fa",
+      "prediction": "Marvel's \"Daredevil\" premiered on Netflix Friday .\nEarly word from critics and Twitter users is very good .\nCharlie Cox plays blind lawyer Matt Murdock .",
+      "reference": "Marvel's long-awaited show \"Daredevil\" began streaming early Friday .\nBinge-watchers are already giving the series high marks ."
+    },
+    {
+      "id": "d7b76c692701299ce5b49414e4c58b0b0a9971ed",
+      "prediction": "Ninian Peckitt, 63, allegedly punched patient in face to correct fracture .\nSurgeon, who lectures on titanium implants, faces being struck off register .\nMedical tribunal hears he 'digitally manipulated' patient's face instead .\nPeckitt quit job at Ipswich Hospital days after treating Patient A in Feb 2012 .\nHe is also accused of failing two other patients during his career .",
+      "reference": "Professor Ninian Peckitt allegedly punched man who had been in accident .\nHonorary locum consultant at Ipswich Hospital at time of alleged incident .\nHe later wrote patient's face was 'digitally manipulated' in February 2012 .\nThe 63-year-old charged with three counts at tribunal and may be struck off ."
+    },
+    {
+      "id": "5b2c3b2182ccce4b11080ee3a787b23ec0396877",
+      "prediction": "Stokes gave his wicket away to Devendra Bishoo .\nSamuels sent him on his way with a military-style salute .\nCurtly Ambrose insists the gesture was just banter .",
+      "reference": "Ben Stokes holed out in the deep for eight on day three in Grenada .\nAs Stokes left the field, Marlon Samuels stood and saluted his foe .\nCurtly Ambrose said: 'There's nothing wrong with a little bantering'\nGraeme Swann said the salute made him 'laugh tea out of my nose'\nEngland lead by 74 runs at stumps on day three in St George's ."
+    },
+    {
+      "id": "29f1719e95eaf076bc3b44b28220d337a7d855a2",
+      "prediction": "Patrick Barkham's book celebrates 50 years of the National Trust's campaign to save our coastal beauties .\nHe goes back to stay on Scolt alone, evoking not only its emptiness, but also its dreamy union of sea and land .\nHe also waxes fondly on the loneliness of beaches and headlands .",
+      "reference": "As an island race, no one in Britain lives more than 70 miles from the sea .\nEnterprise Neptune is the National Trust's campaign to save the coastline .\nSince starting in 1965 the Trust has acquired 742 miles of the British coast ."
+    },
+    {
+      "id": "03105036194ae0b369f39dfe29fd55481c65b9aa",
+      "prediction": "Laura Wells has found international success as a size 14 model .\nShe believes other less curvy models sacrifice too much to stay thin .\nWells says they are often given only 'one cracker and a couple glasses of water' per day to keep thin in the lead up to fashion week .\nThe 177-centimetre beauty was spotted by talent scouts in New York City in 2005 .",
+      "reference": "Laura Wells is a successful plus-sized model who has worked in New York .\nShe revealed agents tell models to eat a biscuit a day before fashion week .\nWells also revealed the first time she was approached by talent scouts .\nThey asked the Australian beauty if she wanted to be a plus-sized model .\nWells said she felt like she wanted to punch them in the face for asking her .\nHer misconceptions about plus-sized models led her to think she was being called fat ."
+    },
+    {
+      "id": "0783c68a744df6afa009d16e72709f2b4d90dea1",
+      "prediction": "Usain Bolt will compete at the IAAF/BTC World Relays in the Bahamas .\nThe six-time Olympic gold medallist will compete at the relay championship on May 2 and 3 as part of the Jamaican team .\nBolt says he is fit, healthy and ready to run .",
+      "reference": "Usain Bolt will compete at the IAAF/BTC World Relays on May 2-3 .\nSix-time Olympic gold medalist says he's 'fit, healthy and ready to run'\nBolt was part of the Jamaica team that won gold at London 2012 ."
+    },
+    {
+      "id": "d50f713caffe87f6d26d452d6b24af756ac2a0d3",
+      "prediction": "David and Sandra Greatrex, 53 and 52, from Plymouth, were harassed .\nSister Anne, 53, cancelled their wedding using a fake email address .\nThe couple spoke about their family feud on Channel 5 documentary .\nAnne was jailed for eight weeks at Plymouth Magistrates' Court .",
+      "reference": "Sandra and David Greatrex\u00a0were introduced by David's sister, Anne Duffy .\nSoon Anne started sending threatening text messages  to Sandra .\nRift got so bad she stopped tried to cancel their wedding using fake email ."
+    },
+    {
+      "id": "57b1073cf344bd0a0fff1acab681cddf0f5633a0",
+      "prediction": "Labour leader vows to end casual employment contracts .\nBut his crackdown backfired spectacularly as he forgot Labour use them .\nFreedom of information requests show Labour-run town halls are behind 21,798 zero-hours contracts .\nAmong the worst authorities are Wolverhampton, which had 738 staff on zero-hours contracts as of May 2014; Liverpool with 442 as of September 2014; and Ealing with 278 as of January 2015 .\nIn an even greater embarrassment, it emerged that 68 Labour MPs had also signed up researchers and other staff on the deals over the past two years .\nThey included shadow health secretary Andy Burnham, shadow chancellor Ed Balls, Mr Miliband\u2019s parliamentary bag carrier Karen Buck and his election supremo Lucy Powell .",
+      "reference": "Ed Miliband vowed yesterday to end casual employment contracts .\nBut Labour councils and MPs hire many workers on zero-hours contracts .\nFOI requests reveal Labour councils have 21,798 zero-hours contracts .\nMiliband has been accused of hypocrisy after his crackdown backfired .\n68 of the party\u2019s MPs were revealed to have employed staff on zero-hours contracts over the past two years; .\n22,000 more of the contracts were handed out by Labour-run councils, including Doncaster where Mr Miliband is standing for MP; .\nEmployers and legal experts said his crackdown would cost scores of jobs; .\nStatisticians accused Labour of using \u2018unjustified\u2019 propaganda; .\n17 more business leaders came forward to sign a letter supporting the Tories in May\u2019s election \u2013 taking the total to 120."
+    },
+    {
+      "id": "5315e98b3e55382430bc11901a308a5a3721f50d",
+      "prediction": "PETA spokesperson Pamela Anderson joined Maricopa County Sheriff Joe Arpaio to promote the benefits of a vegetarian diet for prison inmates .\nAnderson, a longtime vegan, said she hopes the meal initiative stands as a model for prisons and jails across the country .\nArpaio, who calls himself 'America\u2019s Toughest Sheriff', has long faced criticism that he unfairly targets minorities for law enforcement .",
+      "reference": "PETA spokesperson Pamela Anderson joined forces with Arizona sheriff Joe Arpaio  to promote the benefits of a vegetarian diet for prisoners .\nArpaio says cutting meat from the meals served to the more than 8,000 inmates has saved an estimated $200,000 per year .\nReporters on a previous visit to the prison discovered the carrots in the stew were brown and that the soy looked like 'wood chips'\nThe PR stunt at Maricopa County Jail on Wednesday has been described as 'a new low for PETA'\nArpaio is better known for his controversial opinions and racial profiling of Latinos, than his dedication to a vegetarian diet ."
+    },
+    {
+      "id": "ed1d1e10a7153e5b895c4dac7a7b6d689b7f7e26",
+      "prediction": "Iain Watters left the popular cooking competition after binned his Baked Alaska .\nNow he's back with a modern take on traditional fruity Easter  fare - a Simnel cake .\nThe cake has been enjoyed since the Medieval times during Easter .\nTopped with 12 balls of marzipan to celebrate the 12 apostles .",
+      "reference": "The contestant stormed off the show last August after dessert meltdown .\nThis Easter has seen traditional Simnel Cake overtake hot cross buns .\nThe Irish baker has given cake modern update with pistachios and figs ."
+    },
+    {
+      "id": "970ade05cc23764f6cc5ef677752c9d8f3d603dd",
+      "prediction": "Jay Dasilva, Cole and Rio Dasilva were taken from Luton by Chelsea .\nThe trio are now 17, 15 and 15 respectively .\nJay Dasilva is the eldest brother and is expected to make his debut .\nJose Mourinho has promised to promote a youngster next season .\nRuben Loftus-Cheek is guaranteed a place in the first team .\nJohn Terry is the last player to come through the youth ranks and become a first-team regular .",
+      "reference": "Jay Dasilva building a strong reputation in Chelsea's youth system .\nThe young defender has been earmarked as a future first-team player .\nChelsea have not produced a homegrown regular since John Terry .\nBut Jose Mourinho insists he will give youth players a chance .\nRuben Loftus-Cheek has been guaranteed a place in the squad ."
+    },
+    {
+      "id": "132f2db92fcfb69b0f3b28dbc6324a103e3994b8",
+      "prediction": "Peter Ustinov bought the Aston Martin DB4 Cabriolet in 1962 .\nIt was one of the most luxurious cars of its day, costing \u00a34,000 .\nThe car is expected to fetch \u00a31million when it goes up for auction .\nThat's more than twice what it cost just four years ago .",
+      "reference": "DB4 put British cars back on map going 140mph and 0-60 in nine seconds .\nBought in 1962 after Ustinov won best supporting actor Oscar for Spartacus .\nGreat British movie star was loved TV personality until his death in 2004 .\nCar set to sell for double what it fetched at auction when sold four years ago ."
+    },
+    {
+      "id": "6c6f5a15014863765a6d253ffa3dbc96cd4cdfc0",
+      "prediction": "Scientists tricked the brains of test subjects into feeling an unexpected 'presence'\nThe invisible, creepy presence reported by so many people over the centuries is just a set of mixed-up signals in the brain .\nBlinded and wearing earplugs, test subjects performed movements with their hand attached to a robotic device .\nBehind them, the robotic device reproduced their movements and touched them on the back .\nWhen conducted in real time, the participant's brain could adapt and recognize it as their own movement because of the synchronized movement .\nHowever, when the scientists introduced a temporal delay of just a few milliseconds, the distorting of temporal and spatial perception induced the 'ghostly' feeling .",
+      "reference": "Swiss researchers carried out an experiment to make artificial 'ghosts'\nThe sensation was re-created by researchers using a robot to interfere with the sensory signals in the brains of blindfolded volunteers ."
+    },
+    {
+      "id": "2f3a3e30b552743f99ac680456e60346891b89de",
+      "prediction": "Lorraine Cobourn was hit by a yellow taxi in May last year .\nShe was struck as the cab reversed at speed - before the driver left the scene without helping her .\nThe 51-year-old had to leave her job as a Barclays bank clerk as a result of the injuries she suffered .\nShe has received two payouts and is now undergoing counselling to help her deal with the psychological damage she received - including a terrible fear of anything yellow .",
+      "reference": "Lorraine Cobourn cannot even handle bananas following the incident .\nThe 51-year-old\u00a0suffered a broken hip after the accident in May last year .\nShe is now undergoing counselling to cope with psychological damage .\nMs Cobourn said: 'It sounds crazy I know, but I can't even touch bananas'"
+    },
+    {
+      "id": "187ebc0721f02efa4fda5587be0839cc13013a4e",
+      "prediction": "Collin Burns completed a Rubik's Cube in just 5.25 seconds .\nTeenager broke the world record by shaving 0.3 of a second off the previous time .\nHe did so during an official Rubik's Cube event in Doylestown, Pennsylvania .",
+      "reference": "A teenager has broken the world record for completing a Rubik's Cube .\nCollin Burns finished the notoriously difficult puzzle in just 5.25 seconds .\nHe shaved 0.3 of a second off the record at an event in Pennsylvania ."
+    },
+    {
+      "id": "ce78e90d2a0d53113d5bc6cf3d1cac297ef055bb",
+      "prediction": "The golden suit is making a special two month appearance at the Elvis at The O2 exhibition .\nIt was made for the singer by Hollywood tailor Nudie Cohn .\nPresley, who died in 1977 at the age of 42, first wore the suit in public on March 28, 1957 during a performance at the International Amphitheatre in Chicago .",
+      "reference": "Presley first wore suit in public on March 28, 1957, during a performance .\nWill be on display at The O2 from Sunday alongside other artefacts ."
+    },
+    {
+      "id": "78199f7f0a0a952e36a8e4868d1804a45a685304",
+      "prediction": "David Norris, 51, was jailed for 20 years for the attempted murder .\nHe stabbed his wife Dionne in the graveyard of St Nicholas Church .\nShe was laying flowers at the grave of his grandmother when he attacked .\nThe couple had broken up in August of last year and were estranged .\nMrs Norris begged him to think of their children but he only stopped stabbing her when she 'played dead'\nA member of the public intervened and called the police .",
+      "reference": "David Norris pounced as his wife was about to lay flowers on a grave .\nShe begged him to think of their children but he stabbed her repeatedly .\nNorris, 51, only stopped when his estranged wife 'played dead'\nHe was jailed for 20 years after being found guilty of attempted murder ."
+    },
+    {
+      "id": "1019cdea8f76314bdb8acf19acb348bd430fed08",
+      "prediction": "Sterling is stalling on a new \u00a3100,000-a-week contract offer .\nThe 20-year-old insists it has nothing to do with money .\nHe wants Liverpool fans to create a chant for him .\nLiverpool face Newcastle United on Monday night .",
+      "reference": "Raheem Sterling hopes the Liverpool fans will soon be chanting his name .\nSterling has been stalling on a new \u00a3100,000-a-week contract offer .\nThe 20-year-old admits he 'loved' the song fans had for Luis Suarez .\nREAD: Sterling pictured smoking shisha pipe as star courts controversy .\nREAD:\u00a0Jordon Ibe on the verge of signing new Liverpool contract ."
+    },
+    {
+      "id": "a6568bfe8ea596b65eaab5fa5e13238f229e3cab",
+      "prediction": "Dr Zoe Waller, 31, teaches pharmacy at the University of East Anglia .\nShe suffers from the skin condition dermatographia .\nThis is a type of urticaria, or hives - where a raised, itchy rash appears .\nIt is thought to be caused when the cells under the surface of the skin release histamines as part of an allergic reaction, causing the skin to swell .\nInstead of hiding away her condition, Dr Waller is using it as a teaching aid .\nHer students are required to learn 100 drugs for their course and each day, she will draw a new one on her skin .\nWord of the unusual teaching method has spread across the university as well as social media where Dr Waller uploads her quirky designs .",
+      "reference": "Zoe Waller, 31, has dermatographia and can draw designs on her own body .\nCondition is a type of urticaria - where an itchy rash appears after pressure .\nShe says it 'doesn't hurt' and draws molecules on herself to teach students .\nHas become  famous across her university and people now make requests ."
+    },
+    {
+      "id": "4dd8c86b3345af5acae19abe73fbea345fbc0082",
+      "prediction": "Debenhams, BHS and Monsoon offer wedding dresses for under \u00a3300 .\nVera Wang, Oleg Cassini and Melissa Sweet offer gowns for over \u00a31,000 .\nDavid's Bridal, Coast and Phase Eight offer dresses for between \u00a3250 and \u00a3750 .",
+      "reference": "The average cost of the big day has hit \u00a325,000 .\nAsos, Monsoon and Debenhams offering bridal and bridesmaid gowns .\nFEMAIL pits high-street offerings with designer dresses ."
+    },
+    {
+      "id": "1e473b1221dd7036a57f763911dd840c8f394cff",
+      "prediction": "Sharista Giles of Sweetwater, Tennessee was five months pregnant when she went into a coma .\nDoctors believed she would never wake up, but she did, and now she has seen her son for the first time .\nGiles' son, whom the family calls Baby L, was born weighing just two pounds .\nNow he weighs more than six pounds and is doing well in the NICU .",
+      "reference": "Sharista Giles of Sweetwater, Tennessee woke up on Wednesday after being in a coma for five months .\nShe was five months pregnant when she went into the coma, and a month later doctors were forced to deliver her son, who the family calls Baby L .\nWhen Giles opened her eyes her father showed her a photo of her son .\nBaby L weighed just two pounds when he was born and though he is still in the neonatal intensive care unit he now weighs over six pounds .\nGiles' prognosis is still not known, but she has shocked doctors who believed she would not make it out of her coma or even live this long ."
+    },
+    {
+      "id": "dec77c4f25aab92d67be95bbcb28b59e4aeb9f6b",
+      "prediction": "Bolivia's Cal Orcko paleontological site is the result of tectonic activity .\nIt comprises some 462 trails made up of 5,055 prints .\nFrequent landslides reveal new ones, some of which belong to unknown species .\nThe wall, which is the largest dinosaur trackway in the world, is 390 feet (120m) tall and features tracks made by at least eight species of dinosaurs .\nSome, like the one pictured, are large .",
+      "reference": "There are 462 trails of 5,055 prints on a vertical limestone slab in Bolivia .\nRock was pushed upwards by tectonic movement, standing\u00a0390 feet tall .\nSite's thought to be the largest dinosaur trackway in the world and includes footprints made by numerous species and baby\u00a0dinosaurs\u00a0such as T.Rex .\nAttraction is prone to landslide and is said to be under threat from humans ."
+    },
+    {
+      "id": "0ce57369813360bf3bbd4cd716f1cb27b64354b1",
+      "prediction": "Kevin Bowes lost several teeth and had nine 'avoidable' dental procedures .\nSemi-retired teacher said his life has been changed forever .\nWon \u00a330,000 in damages from former dentist Dr Nicholas Crees .",
+      "reference": "Kevin Bowes lost several teeth, had four 'avoidable' root canal treatments and five 'avoidable' crowns fitted by Dr Nicholas Crees over a decade .\nSecond dentists said he will need extensive treatment to repair decay .\nAwarded \u00a330,000 out-of-court but Dr Crees has not admitted liability .\nMr Bowes, said: 'I was devastated. I had no idea my teeth were so bad'"
+    },
+    {
+      "id": "ce14065a28e48e721249e029162c9093612c5489",
+      "prediction": "Angelo West, 41, was shot in the face by Boston police officer John Moynihan .\nThe video shows how West immediately jumped out of the car and shot Moynihan .\nWest then fired at the other officers as he ran across the busy street .\nPolice commissioner William Evans said the officers did not have their weapons drawn or have their hands on their weapons when they approached West's car .\nMoynihan was released from the hospital Friday after weeks of recovery .",
+      "reference": "Video shows how John Moynihan, 34, was shot within seconds of opening Angelo West's car door .\nWest, 41, immediately jumps out of the car and shoots the officer .\nVideo then shows West shooting at officers as he runs across the street .\nWest was fatally shot by Moynihan's colleagues during the shoot-out .\nPolice said they released the video to be transparent with the public and tamp down rumors .\nMoynihan was released from the hospital Friday after weeks of recovery .\nPolice said his current condition is 'serious but improving'"
+    },
+    {
+      "id": "1eda764b4803c3b12e79acc9fc930bbb9f9bcae7",
+      "prediction": "Bills running back LeSean McCoy traded from Eagles to Buffalo .\nMcCoy says he doesn't like the 'college feel' of Chip Kelly's side .\nHe says Kelly doesn't respect the stars and that he's surprised by the move .",
+      "reference": "McCoy laid into his former coach, saying he doesn't respect star talent .\nAfter a day with his new franchise, he said they have more of an NFL feel than the Eagles, who drafted him in the second round of the 2009 draft .\n'I don\u2019t think he likes or respects the stars. I\u2019m being honest,' said the 26-year-old running back ."
+    },
+    {
+      "id": "070c821245a929ad635ac203eebb33a92cae968d",
+      "prediction": "Leigh beat Salford 22-18 in front of a 6,358 crowd at Leigh Sports Village .\nThe Centurions twice came from behind to win the Ladbrokes Challenge Cup .\nFormer England forward Gareth Hock played little part in their downfall .\nSalford were badly hit by injuries and indebted to Theo Fages for keeping them in contention right to the end .",
+      "reference": "Unbeaten Championship leaders Leigh beat Super League side Salford .\nCenturions twice come from behind to beat Red Devils in Challenge Cup ."
+    },
+    {
+      "id": "fa6be9cb1483fd09b2459d087f5161a3a8698cf9",
+      "prediction": "Red Bull's billionaire benefactor Mateschitz threatened to pull out .\nChristian Horner has been critical of Renault this season .\nAbiteboul says he understands Mateschitz's frustration .",
+      "reference": "Daniel Ricciardo finished 9th while Daniil Kvyat retired with engine failure .\nRed Bull on the backfoot this season after troubled opening three races .\nRenault boss Cyril Abiteboul has vowed engine supplier will\u00a0improve .\nRed Bull chief Dietrich Mateschitz has\u00a0threatened\u00a0to\u00a0pull\u00a0team out of F1 ."
+    },
+    {
+      "id": "cbb0f839506c43aa86dbaf99eaf1d439c6fc5737",
+      "prediction": "Loretta Lynch was sworn in Monday as the 83rd U.S. attorney general .\nShe said her confirmation as attorney general showed that 'we can do anything'\nVice President Joe Biden administered the oath of office to Lynch .\nLynch replaces Eric Holder, who left the job Friday after six years as attorney general .",
+      "reference": "Vice President Joe Biden swore in Lynch on Monday .\nShe was a New York City federal prosecutor with a reputation for being hard-nosed and tough .\nShe said her Senate confirmation showed that 'we can do anything'\nPledged to deal with cyberattacks and other threats facing the US ."
+    },
+    {
+      "id": "f88d15c780a7ae55a78887bacc55a185c7802a91",
+      "prediction": "James Ward-Prowse starred for England U21s against Germany .\nWard-Prowse scored the winning goal after a 34-pass move .\nThe Saints midfielder is now getting noticed for his performances .\nWard-Prowse is one of five children and grew up a Portsmouth fan .\nHe switched allegiance to Southampton when he was eight years old .\nWard-Prowse is determined to become a captain for England .",
+      "reference": "James Ward-Prowse scored the winner for England U21s against Germany .\nSouthampton youngster practices free kicks like David Beckham and his childhood idol Steven Gerrard .\nSaints boss Ronald Koeman has been giving him tips on dead balls ."
+    },
+    {
+      "id": "b949a557a8e8c7cdcfc7b8d6829c36b28285e2ea",
+      "prediction": "Manchester United Under 21 side drew 1-1 at Leicester .\nHarry Panayiotou put his side in the lead after 18 minutes .\nSean Goss equalised for United in the 32nd minute .\nRafael and Adnan Januzaj both limped off injured .\nRobin van Persie was substituted on 62 minutes .",
+      "reference": "Robin van Persie, Adnan Januzaj, Jonny Evans, Tyler Blackett, James Wilson and Rafael all started for Man United .\nMan United first team stars Januzaj and Rafael sustained injuries during the 1-1 draw at the King Power Stadium .\nVan Persie boosted his chances of starting against Everton on Sunday by playing 62 minutes of Under 21 encounter .\nBoth goals came during the first half as Sean Goss cancelled out Leicester forward Harry Panayiotou's opener ."
+    },
+    {
+      "id": "a0b0dd7a6ee31bdf3a7a8bc55d09cc44c1ab2280",
+      "prediction": "Intruders broke into home in Hatfield Peverel, Essex .\nFlooded the kitchen, dumped the TV in a bath filled with water .\nSlashed sofas and chairs in a wanton wrecking spree .\nStole jewellery including a wedding ring and watches, a computer, laptop and tablet from the house and left thousands of pounds in damage .",
+      "reference": "Intruders broke into home in Hatfield Peverel, Essex, and flooded kitchen .\nThey dumped the TV in  bath filled with water and slashed sofas and chairs during the wanton wrecking spree - before stopping for bread and butter .\nTook jewellery, including a wedding ring, and a computer, laptop and tablet ."
+    },
+    {
+      "id": "bc902add8ab6d46d09d85147ed3fc2d2d995075c",
+      "prediction": "Number of women taking Holy Vows has trebled from 15 in 2009 to 45 last year .\nFrom a low of seven in 2004, the figure has been rising for the past decade .",
+      "reference": "Figures from the Catholic Church show more and more becoming nuns .\nThe number of women taking Holy Vows stood at just seven back in 2004 .\nBut that figure had risen to 15 in 2009 and increased further to 45 last year .\nOne father said a 'gap in the market for meaning' led people toward religion ."
+    },
+    {
+      "id": "a156451d90e716fcf4a6d7b32e8a5a21ea8610fe",
+      "prediction": "Tranmere suffered a fourth straight defeat on Saturday .\nMicky Adams was absent from his post-match press conference .\nRovers are bottom of Sky Bet League Two and two points adrift of safety .\nAdams took over the club in October after a poor start to the season .\nHe has overseen just two wins in 17 games since then .",
+      "reference": "Micky Adams has left role at Prenton Park with just two games left to play .\nTranmere fans called for Adams to leave the club after 3-0 loss by Oxford .\nRovers are two points adrift of safety with just two games left to play ."
+    },
+    {
+      "id": "6bf5d9f73beabf3ab216cb6119c13075a7646dc7",
+      "prediction": "Coffee pairing rules are not as strict as wine pairing .\nBut there are still some things you should consider .\nWill Corby, from online coffee subscription company Pact Coffee, said: 'The coffee used to brew different types of coffee will all have different flavour profiles'",
+      "reference": "Head of Coffee at Pact Coffee\u00a0Will Corby recommends the best pairings .\nHave a crumbly, hard cheese like Lancashire with your Irish coffee .\nA delicately spiced pastry will let you detect light espresso flavour in latte ."
+    },
+    {
+      "id": "48280ecea43ba6e57969663a44e42c07326a12d5",
+      "prediction": "Woods played an 18-hole practice round on Tuesday at Augusta National .\nGolf Channel said he was seen on the practice range Friday morning .\n'I'm playing in the Masters,' Woods said on his website .\n'I've worked a lot on my game, and I'm looking forward to competing'\nWoods last competed at the Farmers Insurance Open on February 5 .\nHe walked off the course after 11 holes because of tightness in his lower back .\nHe has plunged to No. 104 in the world ranking, his lowest spot since 1996 .",
+      "reference": "Four-time Masters champion made the announcement on Friday .\nHe said he has worked a lot on his game and is excited to compete .\nWoods last competed on February 5 at the Farmers Insurance Open when he walked off the course because of tightness in his lower back ."
+    },
+    {
+      "id": "7db2bc1563c9474eacd18fb0f2a0abfad634cb89",
+      "prediction": "A CNN poll shows 72% of millennials believe same-sex couples should have rights .\nBusinesses are learning that support for discrimination threatens their bottom line .\nMarriott International is a company founded by a Mormon, but runs a campaign for LGBT travelers .",
+      "reference": "Stephanie Coontz: Indiana, Arkansas governors caught off guard by outrage, boycotts over anti-LGBT law .\nShe says religious conservatives who discriminate no longer hold sway in a culture comfortable with diversity, including same-sex marriage ."
+    },
+    {
+      "id": "cc0c38724af299be9fe555040bde585b1091f84a",
+      "prediction": "The youths took the boy to an isolated place and raped him .\nWhen he resisted, they set him on fire, Inspector Sasthe told PTI .\nThe boy, who suffered 30 per cent burns to his body, escaped .\nThe incident took place in Padma Nagar in the city of Bhiwandi, a suburb of Mumbai .",
+      "reference": "Youths took boy to an isolated place in Padma Nagar, India, and raped him .\nWhen he resisted, they set him on fire, leaving him with 30 per cent burns .\nHe is now being treated at the Thane Civil hospital, about 30 minutes away ."
+    },
+    {
+      "id": "09d95a635efb20d503907331d169c6bd1d680b1b",
+      "prediction": "Sol Campbell joins forces with David Harewood, Tinie Tempah and Ade Adepitan .\nCampaign aims to encourage minorities to register to vote in the General Election .\nCampbell, 40, is considering a career in politics after retiring from football .",
+      "reference": "Sol Campbell is part of a campaign to encourage minorities to vote .\nHe joins David Harewood, Tinie Tempah and Ade Adepitan .\nCampbell has often said he is interested in a career in politics .\nHe ruled out standing for the Conservatives in Kensington ."
+    },
+    {
+      "id": "97ea5bd4359346f53608eaeaf6d553c585a5056b",
+      "prediction": "Wiley Bridgeman, 60, and Kwame Ajamu, 57, were awarded $1.6m by Ohio Court of Claims .\nThe brothers were sentenced to death for the 1975 slaying of Harry Franks .\nBridgeman, Ajamu and Ricky Jackson, 59, were convicted after a 12-year-old said he saw the murder .\nJackson was the longest serving person ever exonerated in US history .\nHe was released in November 2014 after the prosecution's star witness recanted his testimony .\nThe brothers were released in November after nearly 40 years behind bars .\nOhio law allows wrongfully imprisoned individuals to be paid about $51,000 for each year of incarceration .",
+      "reference": "Wiley Bridgeman, 60, and Kwame Ajamu, 57, sentenced for 1975 killing .\nKey witness, 12-year-old boy, later recanted his testimony last year .\nAjamu spent 27 years in prison, Bridgeman spent almost 40 behind bars .\nThird inmate, Ricky Jackson, received $1million in March .\nAjamu and Bridgeman, who are brothers, received death sentences at age 17 and 20, respectively ."
+    },
+    {
+      "id": "7d75d0d3011cc7264a5e3727fc9e772b6433ca64",
+      "prediction": "Asabi Barner, 37, claims she went to Harlem tattoo parlor after watching its reality show .\nBarner says she came away with a painful tattoo that has left her scarred .\nThe artist at the shop said her skin had been overworked to bring out a white color .\nBarner is now suing the shop for negligence and recklessness .",
+      "reference": "Asabi Barner, 37, of South Carolina got a tattoo at Black Ink tattoo parlor while visiting New York City .\nThe parlor in Harlem specializes in tattooing dark skin and the shop's owner and artist have their own reality show called Black Ink Crew on VH1 .\nBarner went to the shop last year to get a new chest piece to cover up an older chest tattoo .\nAfter the first day, Barner says the new tattoo started to puss and continues to be painful to this day .\nShe is currently in the process for suing the tattoo parlor ."
+    },
+    {
+      "id": "cec759716548bc34ef6ddbfa4c06a4cbfa024cf6",
+      "prediction": "Police response times in some areas have been increased by up to 50% .\nLabour's shadow home secretary Yvette Cooper claims victims are being put at risk .\nThe government introduced a 101 number to report less urgent crimes .",
+      "reference": "Some crime vicitms are waiting up to two minutes longer for a response .\nThere are now 17,000 fewer police officers across the country than in 2009 .\nCallers have been urged to contact the non-emergency 101 service .\nLabour's Yvette Cooper blames the increase in waiting time on Tory cuts ."
+    },
+    {
+      "id": "e7cf3fffdc93587e901c6499aaecffcf66f1a7ab",
+      "prediction": "Justice Ginsburg has been unusually open about her opinions .\nShe has referred to the American public becoming more accepting of gay rights .\nGinsburg will get the chance to make her views known in the upcoming case of Obergefell v. Hodges .\nThe case is being brought by James Obergefell, an Ohio man who married his husband in Maryland but was not allowed to name himself as spouse on his husband's death certificate in his home state .\nCurrently 37 states allow gay marriage, as well as Washington, D.C.\nBut Ohio is one of 13 which has held out .\nProtests: Pictured are gay rights protesters camped out in front of the Supreme Court this weekend .",
+      "reference": "Liberal champion, 82, has spoken widely about gay rights .\nShe even officiated at a same-sex ceremony in August 2013 .\nOpponents have said it makes her unfit to rule on upcoming case .\nObergefell v. Hodges will be heard by nation's top court from this week .\nCase will decide whether all states have to allow gay marriages .\nEven if not, could be forced to recognize gay marriages in other states .\nGinsburg is in liberal minority in the Supreme Court .\nBut conservative Anthony Kennedy often votes in favor of gay rights ."
+    },
+    {
+      "id": "3bd390c7412e7f2e90372c1f1e3c2115c04ab6f5",
+      "prediction": "Mindfulness has become the latest buzzword when it comes to dealing with stress .\nBut it seems children are also benefiting from it .\nThe video shows that 'you're never too old, or too young, to discover mindfulness'\nOne child says: 'When I'm mad, my brain can get a headache and it can start hurting'",
+      "reference": "Children star in new video from Oprah Winfrey's OWN TV network .\nThe youngsters explain how it feels to get angry and lose control .\nThey then explain how mindfulness techniques help them calm down ."
+    },
+    {
+      "id": "00f72bffb3bc4d927cfff380e0ce2f94b6d3cb2b",
+      "prediction": "Dante de Blasio, the son of New York City Mayor Bill de Blasio has been accepted into several top colleges including Ivy League universities Yale and Brown .\nThe mayor's son, who is 17 and a senior at Brooklyn Technical High School will make his decision by the end of the month .\nDespite his six figure salary as mayor and six figure rental income from the two properties he and his wife own in Brooklyn, de Blasio is now expected to turn to financial aid to help pay for his son's elite education .",
+      "reference": "Dante de Blasio, 17, to make his decision by the end of the month .\nHis father has said that despite his six-figure salary the family will struggle to meet cost to send son to Ivy League school ."
+    },
+    {
+      "id": "e466104e70acead8354ed7d3c43fb8b12299ce10",
+      "prediction": "Max is an 18.5in tall fully-grown husky corgi cross .\nFound abandoned, he has now taken refuge at the Dogs Trust in Basildon, Essex .\nThe charity is in no doubt that the trend is partly due to fans wanting to follow the stars of Game Of Thrones and Twilight .",
+      "reference": "Max is a husky-corgi cross and measures 18.5in from foot to shoulder .\nHe has become a favourite with staff at the Dogs Trust in Basildon, Essex .\nUnbelievably, he has been abandoned and is now looking for a home .\nTo find out more about Max, call the Dogs Trust on 0300 303 0292 or visit dogstrust.org.uk."
+    },
+    {
+      "id": "5bfa02407c6f3e482d11b29477ade281b5846064",
+      "prediction": "Footage captured by Rumble user Sean C shows Bourbon the Doberman enthusiastically licking a baby boy on the face and nose .\nAt one point the youngster can barely breathe as his whole face is given a slobbery wash .\n'Bourbon easy! Off!' a man filming the scene is heard yelling .",
+      "reference": "Video footage captured by Rumble user Sean C shows Bourbon the Doberman enthusiastically licking a baby boy on the face and nose .\nWhile some have deemed the clip 'cute' other viewers have been turned off ."
+    },
+    {
+      "id": "b9cb796f193b0b8986616ffce27166c8892f1f4d",
+      "prediction": "John Helinski, 62, lived in a cardboard box for three years .\nAll of his personal identification had been stolen .\nA cop and a case manager looked into his past and found a bank account .\nHelinski was born in Poland, but is an American citizen .\nHe has a driver's licence and a social security number .\nThe bank account had not been touched for years, so social security had built up, and he even had cash .",
+      "reference": "John Helinski, 62, slept in a cardboard box in Tampa Bay for three years .\nHe applied for homeless housing, but struggled as he had no\u00a0identification .\nIt had all been stolen years earlier - virtually forcing him onto the streets .\nA case worker and a cop looked into his past and uncovered his records .\nHelsinki then went into a Tampa bank and discovered a lost account .\nEnough money and\u00a0social\u00a0security was in there for him to buy a house ."
+    },
+    {
+      "id": "ff42fad959e8b522b562b7b715c8d558270a79f2",
+      "prediction": "NEW: A Secret Service supervisor is placed on administrative leave .\nA female employee says he made sexual advances toward her .\nThis comes amid other recent scandals involving the agency .",
+      "reference": "Secret Service says supervisor's security clearance has been suspended .\nHe is accused of trying to kiss a colleague ."
+    },
+    {
+      "id": "7322bea487a729f9294f28abbb7a260ea63aa732",
+      "prediction": "Deputy headteacher fell and fractured her arm while trying to restrain a six-year-old boy .\nPaul Nesbitt, NASUWT executive member for the West Midlands, said the union 'doesn't hesitate' to launch so-called 'refusal to teach' ballots .\nHe said: 'That six-year-old was able to break someone's arm'\nA female teacher at a local primary school had been 'kicked repeatedly by a six-year-old'",
+      "reference": "NASUWT union said indiscipline is a 'significant problem' at many schools .\nTeachers are sworn at, kicked and punched while one had her arm broken .\nDeputy headteacher was restraining boy when she fell and fractured arm .\nLast year staff at eight schools refused to teach badly behaved pupils ."
+    },
+    {
+      "id": "f6ee9e6a59db7513940c8f80cb2bc38f04ca601f",
+      "prediction": "Addison Russell, 21, was batting for the Chicago Cubs when the incident happened .\nRussell swung at a first-pitch fastball and accidentally let the bat slip out of his fingers .\nThe bat went flying and it ended up striking a fan who was sitting several rows behind the Cubs' on-deck circle .\nCubs officials rushed to assist the spectator and towels from the home team's dugout were brought to the injured fan .\nRussell said the bat 'just slipped' from his hand and he felt 'terribly bad' about it .",
+      "reference": "Addison Russell, 21, was playing in his first home game for Chicago Cubs .\nHe was batting in the seventh inning when he swung at pitch and lost bat .\nBat struck a fan sitting several rows behind the Cubs' on-deck circle .\nFan suffered 'wounds' but was conscious and taken to a nearby hospital .\nRussell saw fan get hit and said:\u00a0'Words can't describe how bad I feel'"
+    },
+    {
+      "id": "18200c0699a63fc3f3d75b491caa9ef3b9428e57",
+      "prediction": "Ohio woman was shocked when an officer cited her for leaving her dog in a hot car .\nInstead of writing a ticket, the cop forced her to sit inside to see how it feels .\nThe woman was inside a Walmart as the dog sat in the parking lot .\nThe officer then had the woman sit inside with the windows up and ignition off .\nThis isn't the first time an animal-loving officer has employed the unorthodox punishment .",
+      "reference": "A woman at an Ohio Walmart says an officer forced her to sit in her car after she left her dog sitting in the parking lot April 12 .\nLast year, a Truth or Consequences, New Mexico woman filed a complaint alleging a similar mistreatment ."
+    },
+    {
+      "id": "aae990a255353b4257a74375cd9f7acd54325075",
+      "prediction": "Carrie Reichert, 43, has released a teaser from her upcoming book .\nShe claims she shared a 'hot, deep kiss' with Prince Harry in 2012 .\nKensington Palace has previously denied she was one of the women .\nMs Reichert also claimed she would use a pair of the Prince's underpants for a strip-tease act .",
+      "reference": "Dominatrix claims she shared a 'hot, deep kiss' with Prince Harry in Vegas .\nCarrie Reichert said she felt overdressed after seeing his 'cute naked a**'\nThe 43-year-old made the claim in an excerpt from her upcoming book .\nKensington Palace has previously denied she was invited to the hotel suite ."
+    },
+    {
+      "id": "1e0f4939741f97b28a72b8a253e6df71520f92d8",
+      "prediction": "Experts conclude that Bond would have died or been seriously injured .\nThe secret agent would have been shot by a depleted uranium shell .\nThis would have turned his lungs inside out and killed him .\nBond would have also been likely to die from the cold or lack of oxygen .\nHe would have been likely to lose too much blood during surgery .\nEven jumping from the roof of a speeding train into a river would have broken his neck .",
+      "reference": "Action heroes would almost certainly die if they were worked in real life .\nMedical experts have assessed several action heroes and their wounds .\nJames Bond risked death several times during Skyfall and even cancer .\nBond's DIY bullet removal left him at great risk of infection of paralysis ."
+    },
+    {
+      "id": "b5ef2cd6e8ba74e918bfcce77ed3e11f0148dbf4",
+      "prediction": "Issa Hayatou, president of the Confederation of African Football, promised unanimous support .\nHayatou said: 'Africa is comfortable having you. Africa stays with you'\nBlatter is seeking a fifth term in office to extend a reign that began in 1998 .",
+      "reference": "Issa Hayatou, president of African football, said they will support Sepp Blatter in his bid to for fifth term as FIFA president .\nAll 54 African FIFA members have agreed to back Blatter in the election .\nLuis Figo, Prince Ali Bin al-Hussein and Michael van Pragg have chosen to stand against the 79-year-old and become the new president ."
+    },
+    {
+      "id": "3146c14e3a00d9d1d464110fba0dab55f01786e6",
+      "prediction": "The trailer was leaked online on Thursday .\nIt features a commentary from various people about Superman .\nBen Affleck is playing Batman in the film .",
+      "reference": "\"Batman v. Superman: Dawn of Justice\" trailer leaked Thursday before being yanked offline .\nFilm will be released on March 25, 2016 and stars Ben Affleck and Henry Cavill ."
+    },
+    {
+      "id": "5a0fc5446164c69f250c817608999785dbfd635c",
+      "prediction": "Second year history and politics student said she couldn't afford to live .\nShe took up sex work after her student loan failed to cover her rent .\nShe said she didn't immediately turn to prostitution but used it as a last resort after conventional means of work failed to support her .\nShe said she didn't know anyone in London so when she moved here it was starting from scratch .\nShe said she could afford a place of her own after she began to advertise her services .",
+      "reference": "A student has revealed she turned to sex work to cover the cost of living and studying in London .\nShe tried regular work but still struggled to pay the bills .\nShe says that sex work is becoming common practice among students ."
+    },
+    {
+      "id": "6ebaf7f864ca8460e75357dc52b288b50aac0aa5",
+      "prediction": "LaTasha Gosling, 27, and her two daughters, Janyaa, 4, and Jenika, 8, and her son Landen, 7, were discovered early Wednesday .\nThe suspect in the case was found just hours later dead, and while police would not say how he died they did say that it was not a homicide .\nHe also had a six-month-old baby with him who was unharmed .\nFamily of the Goslings are now trying to raise money for their funeral services, and have started a GoFundMe page .",
+      "reference": "LaTasha Gosling, 27, of Tisdale, Saskatchewan, was found murdered in her home early Wednesday .\nHer two daughters, Janyaa, 4, and Jenika, 8, and her son Landen, 7, were also discovered dead .\nHours later police found the suspect dead at his residence, along with a six-month-old baby who was unharmed .\nPolice are not releasing much information at this time, but did reveal the suspect and victims knew one another ."
+    },
+    {
+      "id": "953d4b9ce9df6571578a7784f7541c01d6f695e2",
+      "prediction": "Chester, a six-year-old pit bull, had been living in shelters for the past five years .\nHe was found as a stray and had been living in New York state shelters since 2010 .\nThe animal welfare league posted a picture of Chester on Facebook .\nIt showed Chester with a sign around his neck saying: 'Why doesn't anybody want me?'",
+      "reference": "A heartbreaking photo of a six-year-old Pit mix appeared on an animal shelter's Facebook page .\nThe rescue center was inundated with calls about the dog .\nAfter just a few hours, the photo of Chester had been shared 6,000 times .\nA family was found to take care of him within days of the posting ."
+    },
+    {
+      "id": "e2bccd4dec93c9bb7b327827dae004c2d494ec31",
+      "prediction": "Japan's Defense Minister responds to lawmaker's question about UFOs .\nLawmaker Antonio Inoki asks if ASDF has ever encountered an extraterrestrial threat .\nInoki is a former wrestler and a member of Japan's Upper House of Parliament .\nHe also claims to have seen a UFO with his own eyes .",
+      "reference": "Japan's top military official earnestly revealed that the country's Self Defense Force (SDF) had never encountered a UFO .\nCelebrity politician and former wrestler Antonio Inoki had posed a question concerning extraterrestrials to a government committee ."
+    },
+    {
+      "id": "69effb1306a923330b77befbd6b82a92567486bf",
+      "prediction": "West Ham defender James Tomkins is hoping to return to action .\nTomkins dislocated his shoulder in the gym last month .\nHe has undergone successful surgery and is now recovering .\nThe 25-year-old says he is preparing himself mentally for a long season .",
+      "reference": "James Tomkins underwent surgery on a dislocated shoulder last month .\nDefender Tomkins picked up the freak injury during a gym session .\nSurgery went well and the 26-year-old is closing in on a return to action .\nHowever, Tomkins accepted it may be too late to feature again this season .\nCLICK HERE for all the latest West Ham news ."
+    },
+    {
+      "id": "1b5b437eabd1f04ee32236c589c8de9fb1b5748e",
+      "prediction": "Jason Warnock, 29, was driving Wednesday morning in Lewiston, Idaho .\nHe saw debris near the road and looked up to see a vehicle crashed into a chain-link fence on the edge of a cliff .\nWarnock then pulled driver Matthew Sitko, 23, out of the vehicle .\nSitko had been listening to a song on the radio and thought he was going to die .\nWarnock didn't give his name to police because he didn't want thanks .\nBut he came forward Thursday to identify himself and describe the rescue .",
+      "reference": "Mathew Sitko, 23, crashed his car and ended up hanging over a cliff edge in Lewiston, Idaho in an 'emotional episode' Wednesday morning .\nJason Warnock, 29, was nearby when he saw the car above so he climbed up a footbridge and ran to the edge of the cliff and pulled the man out .\nHe needed to leave to go to work but was tracked down after the picture quickly spread online .\n'I think maybe God put me here at the right time,' Warnock said .\nPolice are now saying that Sitko crashed his SUV after hearing a song on the radio that 'convinced him it was his time to die'"
+    },
+    {
+      "id": "898e0bdbea1d0676f51eacbd2f79d41b62242aa7",
+      "prediction": "UN's World Meteorological Organization removes name from list .\nHurricane Committee deemed the name inappropriate because of ISIS .\nName of ancient Egyptian goddess was on WMO list for 2016 .\nCommittee also backed Mexico's request to retire the name Odile .",
+      "reference": "Name of ancient goddess of Egypt was on WMO list for hurricanes in 2016 .\nOrganization deemed name inappropriate and replaced it with name Ivette .\nWMO\u00a0has rotating lists of names for various regions that run from A to Z .\nMexico requested to retire name Odile and Odalys will be its replacement ."
+    },
+    {
+      "id": "e84f9b5d17fd6f7e0a21fed4a795e3a6fab4b577",
+      "prediction": "Labour's football-mad Scottish leader Jim Murphy scored the winning goal .\nMatch was organised to help Motor Neurone Disease campaigner Gordon Aikman in his fight against the terminal condition .\nMND patient, campaigner and founder of GordonsFightback.com Gordon Aikman refereed the Show Motor Neurone Disease the Red Card' event at Spartan's Community Football Academy .\nMr Aikman was diagnosed with the terminal condition less than a year ago and has raised over \u00a3250,000 for research into a cure through his campaign 'Gordon's Fightback'\nPeople can donate to the campaign through GordonsFightback.com or texting 'MNDS85 \u00a35' to 70070 .",
+      "reference": "Jim Murphy scored winning penalty in charity shootout in Edinburgh .\nGame put on for terminal Motor Neurone Disease sufferer Gordon Aikman .\nMr Aikman was diagnosed with the terminal condition less than a year ago .\nHe has raised over \u00a3250,000 for research into a cure through his campaign ."
+    },
+    {
+      "id": "59f86a0404e249e9f52ae260d011486215eea8d4",
+      "prediction": "One in five young professionals now considers themselves to have a drinking problem .\nNearly half of young workers think it is acceptable to regularly get drunk on a night out .\nThe risky effects of drinking were also revealed, as young people admitted to forgetting how they got home, driving themselves home drunk or getting in a car with someone they knew was intoxicated .",
+      "reference": "Fifth of young people don't remember how they got home after drinking .\nThird forgot their entire night while one in 20 drove themselves home drunk .\nBut nearly a quarter considered alcohol to be more harmful than smoking .\nHalf  said the NHS should stop treating alcoholics given health warnings ."
+    },
+    {
+      "id": "ac43d20a171d61c0439061a3284ea854f8ccf1f8",
+      "prediction": "New York City's Library Hotel is every bibliophile's dream .\nHotel was designed around the Dewey Decimal System .\nEach floor is dedicated to one of the 10 major categories .\nGuests can find more books in a dedicated reading room .",
+      "reference": "The luxurious Library Hotel has more than 6,000 books scattered throughout its guest rooms and public spaces .\nEach floor is dedicated to one of 10 of the Dewey Decimal System's categories, including history and technology .\nEvery one of the hotel's 60 rooms is decorated according to a genre or topic within the categories .\nOn the fifth floor - devoted to math and science - guests stay in rooms themed after\u00a0astronomy and dinosaurs ."
+    },
+    {
+      "id": "05630e1c0687f8be520dc20b7f3a466df90243b9",
+      "prediction": "Delta Air Lines Flight 2522 landed at LaGuardia Airport in New York .\nFirefighters arrived after an odor of smoke was reported by the crew .\nPassengers were still on board as firefighters walked through the cabin .\nA Delta spokesperson said the flight crew noticed a 'smoky odor'",
+      "reference": "Delta  said the flight crew reported an\u00a0odor\u00a0while taxiing to the gate .\nThe crew shut down both engines and notified the airport fire department .\nPassengers remained on board as firefighters checked for a heat source .\nPlane was towed to the gate and passengers allowed to disembark ."
+    },
+    {
+      "id": "239bb72ab56ea21744995fef6b0cb56e7eafab83",
+      "prediction": "Joshua will be fighting for the first time since January .\nThe London 2012 Olympic champion is unbeaten in 10 pro fights .\nGavern is making his 50th appearance in the ring .\nBoth men will be facing each other at the Newcastle Metro Arena .",
+      "reference": "Anthony Joshua will take on Jason Gavern in Newcastle on Saturday .\nJoshua will be entering the ring for the first time in 2015 after recovering from a stress fracture in his back .\nThis will be Joshua's 11th professional bout since his debut in 2013 .\nHe believes that his 'hunger and determination' will more than make up for Gavern's\u00a0superior\u00a0experience of 50 fights ."
+    },
+    {
+      "id": "58c444a0dacaa95c32fbd432281590ddf40385ef",
+      "prediction": "Sharon Edwards, 55, was last seen between 10pm and 11pm on March 14 .\nHer son Eli Edwards says his family is struggling to come to terms with her disappearance .\nPolice are treating the case as a homicide because it is extremely out of character for Ms Edwards .\nMs Edwards, a dedicated primary school teacher, didn't turn up to work on Monday morning and her husband reported her missing the next day .",
+      "reference": "Sharon Edwards, 55, was last seen on Saturday in Grafton, NSW .\nSon said his family were struggling to come to terms with disappearance .\nEli Edwards said they need answers 'one way or another' to get closure .\nPolice are now treating the 55-year-old's disappearance as a homicide ."
+    },
+    {
+      "id": "b1f32a5b4dad7cdac9b133cd4b82d0b1c166dc0d",
+      "prediction": "Jerry Tarkanian, age five, suffered a stroke at about 4am on Friday .\nHe was taken to the University Medical Center of Southern Nevada in Las Vegas .\nHis parents said he is conscious and moving around better since the stroke .\nJerry is the grandson of the famed college basketball coach Jerry Tarkanian .\nThe elder Jerry Tarkanian, who led the 1990 UNLV men's basketball team to a national title, died in February, aged 84 .",
+      "reference": "Jerry Tarkanian, five, was taken to the hospital at 4am on Friday after complaining about pain in his legs .\nHe was given a CT scan, couldn't move the left side of his body and was having trouble answering questions, mom Amy Tarkanian said .\nParents Danny and Amy Tarkanian say he's showing signs of improvement .\nElder Jerry Tarkanian, a Hall of Fame coach, died in February, aged 84 ."
+    },
+    {
+      "id": "270319835b711a73431fab98282fc6db8281fa42",
+      "prediction": "Islamic State has released a six minute video showing the beheadings .\nThe men were accused of blowing up a car bomb in the city of al-Mayadin .\nThey are all marched to a wooden stump and instructed to kneel .\nAn Islamic State militant takes their heads off with a sharpened blade .\nThe video was posted on April 5 on the jihadist group's social media sites .",
+      "reference": "'Soldiers' were sentenced to death by Islamic Court 'for\u00a0waging war on God'\nMasked executioner beheads the men before wiping his blood-stained blade .\nMen and young children gathered to watch execution in ISIS-held al-Mayadin .\nISIS has recruited 'hundreds of children' from east Syrian city, experts claim ."
+    },
+    {
+      "id": "4741ee68a4bd43365d807d658583f4a05137ddd0",
+      "prediction": "Coca Cola has changed the colour of the caps on its bottles .\nAll variants including Diet Coke and Coke Zero now have red caps .\nFans have expressed their dismay at the change on social media .",
+      "reference": "Customers used to white lids on the famous zero calorie, zero sugar type .\nOther variants Coke Zero and Coke Life used to have black and green tops .\nBut company has now brought all four variants 'together under one brand'\nCompany accused of 'messing with our heads' with red tops for all types ."
+    },
+    {
+      "id": "ebbd92db0b4f884fc102d89efcd1e902c2448093",
+      "prediction": "The footage, which was taken last Monday in Forrestville in northern Sydney shows a driver behind the wheel of an AC & S truck tailgating, yelling and flashing his lights aggressively .\nFriends Cameron Rose and Bo Honna were the occupants of the Subaru and said they were perturbed when the truck driver crossed into their lane without using any indication .\nWhile Mr Honna was driving the car, his mate Mr Rose was filming the menacing incident on his phone .\nAfter Mr Rose put his arm out the window in a gesture to show the truck driver that he was not happy with his action, an onslaught of terror began .\nFirst the truck driver drove up right behind the men, almost touching their bumper .\nThen he began laughing and sticking his head out the window, shouting abuse at the men, beeping his horn and flashing his lights to put them off their driving .\nAccording to Mr Honna, the truckie got about two centimetres from the back of his car .\nThe incident",
+      "reference": "A truck driver has been caught on camera intimidating road drivers .\nThe driver was laughing while tailgating the men and flashing his lights .\nThe incident started on Warringah Road and continued for 8.5km .\nTruck company AC & S say they have disciplined the driver ."
+    },
+    {
+      "id": "92458fa8573486214facd07057c2932895bc1c80",
+      "prediction": "Mrs Cameron visited Abbey Court School in Rainham, Kent .\nShe met Mitchell, aged four, and Jessica, aged five .\nThe PM's wife is expected to make more stridently political interventions .\nMark Reckless defected from the Tories to Ukip last summer .\nAfter the Conservatives threw the kitchen sink at the by-election, Mr Reckless held it with a majority of 2,920 .",
+      "reference": "Tory leader's wife makes first solo trip of the general election campaign .\nJokes she is glad she is not taking part in TV leaders' debate tomorrow .\nVisits Rochester and Strood to take on Reckless who defected from Tories .\nPM David Cameron vowed to kick his 'fat arse' out of the Commons ."
+    },
+    {
+      "id": "4cfe02fe65eedf9364dd2b9633dca27349ec02aa",
+      "prediction": "Dan Bilzerian was arrested last year for placing homemade explosives in a tractor and shooting them .\nHe was released without charge but was ordered to make a video about responsible gun use .\nThe film shows him lecturing people on how to be responsible when using guns .\nBilzerian is known for his extravagant lifestyle, including partying with models and firing high-calibre weapons .",
+      "reference": "Dan Bilzerian, 34, arrested on explosives charges in December last year .\nEscaped jail as part of plea that required him to make gun safety film .\nFilm shows Bilzerian speaking in monotone voice reading from a script .\nSits in front of gun-shaped candle holder next to action figure of himself ."
+    },
+    {
+      "id": "ca50feb25d84ba6b57dc20e7f2378ffe43848815",
+      "prediction": "Oil and gas firms claim 100billion barrels of oil beneath the Home Counties .\nExperts warn only a fraction of the oil may be accessible for extraction .\nOne expert described the claims as 'overly optimistic'\nResidents living above the oilfields will not benefit financially .",
+      "reference": "Weald Basin estimated to contain 100billion barrels of oil, new report says .\nUK Oil & Gas Investments claims the site could supply 30% of UK's needs .\nIf the maximum amount of oil is extracted it will be worth \u00a3600billion .\nBut some experts warn the site in Sussex will be difficult to exploit ."
+    },
+    {
+      "id": "88300996cb95ae19d0f175b100fbfcea99d1b7aa",
+      "prediction": "City have lost five games in 2015, one more than the whole of 2014 .\nThe Premier League leaders have won just three of their last six matches .\nManuel Pellegrini has been criticised for his lack of ambition .\nRicky Hatton wants 'the old City back'\nNoel Gallagher says there is 'apathy' towards the Champions League among the City supporters .",
+      "reference": "Manchester United 4-2 Manchester City: Click here to read the match report .\nManuel Pellegrini has orchestrated a limp Premier League title defence .\nCity didn't go for Diego Costa, Cesc Fabregas or Angel di Maria .\nThe are stuck with the likes of Jesus Navas at the Etihad Stadium .\nThe defending champions must bring in big names to grow as a club .\nADRIAN DURHAM: Louis van Gaal should win manager of the year ."
+    },
+    {
+      "id": "d112c8976c5b8b963708f2c780a4f22386b84b3b",
+      "prediction": "Victor Wanyama dismissed rumours he was set to leave Southampton .\nKenyans midfielder claims he has never spoken to Arsene Wenger .\nHe was linked with the Gunners before moving from Celtic to Saints .\nHis stock has risen in the Premier League since joining Saints last year .",
+      "reference": "Victor Wanyama has starred in the heart of Southampton's midfield .\nReports claim he has spoken to Arsene Wenger over a summer transfer .\nTeam-mate Morgan Schneiderlin has also been linked with the Gunners .\nREAD: Bacary Sagna insists he does not regret leaving Arsenal .\nREAD: Arsenal fans should give Cesc Fabregas a good welcome ."
+    },
+    {
+      "id": "46376a5f64ce99522c66eafb80327a32d7a88045",
+      "prediction": "Javier Hernandez is set to start for Real Madrid vs Atletico on Wednesday .\nThe 26-year-old is on a season-long loan from Manchester United .\nAS report that the Real star is 'ready' to lead the line in the clash .\nReal have been dealing with an injury crisis at present .\nMeanwhile, Barcelona face PSG on Tuesday night in the Champions League .\nJuventus play Monaco on Wednesday night in another European tie .\nPorto host Bayern Munich on Tuesday night too .",
+      "reference": "Real Madrid face Atletico in Champions League quarter-final second leg tie .\nManchester United outcast Javier Hernandez expected to start  for Real .\nCarlos Tevez has made it known he wants to return to\u00a0Argentina\u00a0one day ."
+    },
+    {
+      "id": "18aa6b92a491899111f8a6ef68cb8b78d559aa8a",
+      "prediction": "Donald Sterling, 80, had lavished his alleged girlfriend with gifts .\nV. Stiviano, 32, accepted a $1.8 million house, luxury cars and stocks .\nBut Shelly Sterling insists she took the woman to court 'for justice'\nShe says she will donate the proceeds to charity .\nSterling is suing his wife and the NBA over the $2 billion sale of the team .",
+      "reference": "A Los Angeles judge ruled this week that V. Stiviano must return $2.6 million in gifts she was given by former Clippers owner Donald Sterling .\nShelly Sterling said on Wednesday that she feels vindicated by the win and will be giving the money to charity .\nShe said that she and Sterling never split and, even though she drew up divorce papers last year, she never filed them .\nThe ruling came a year after the NBA banned Sterling for life over a recording of him telling Stiviano not to associate with black people ."
+    },
+    {
+      "id": "060eca2f7301be29235f5aabb8ca6fbb2759df60",
+      "prediction": "NEW: U.S. Rep. Robert O'Rourke says the El Paso-Juarez border is \"safer than it's ever been\"\nThe city of Ciudad Juarez, Mexico, was once known as the murder capital of the world .\nFive years after the peak of cartel violence, officials say the city is much safer .\nBut longtime residents say the wounds of the violent past haven't quite healed .",
+      "reference": "Cartel violence helped make Juarez the murder capital of the world five years ago .\nBut the murder rate in the city has declined rapidly since 2010 .\nNow city leaders are working to bring visitors and foreign investment back to Juarez ."
+    },
+    {
+      "id": "ea70281fc0ae1b1722eae2723f26a419123d491d",
+      "prediction": "Emmanuel Sithole was stabbed repeatedly with knives and beaten with a wrench .\nHe was left bleeding to death in a gutter because a medical centre was closed .\nHis cause of death was later established as a direct stab wound to the heart .\nThe violent attack was captured on camera by a journalist from South Africa's Sunday Times newspaper .\nWitnesses, including the journalist, took Mr Sithole in the back of a car to a nearby medical centre but found it was closed because the foreign-born duty doctor had failed to turn up for his shift because he feared being attacked by the xenophobic hordes rampaging through the township .",
+      "reference": "Emmanuel Sithole was attacked by a mob who repeatedly stabbed him and beat him using a metal wrench .\nSouth African gang carried out the sickening murder because Mr Sithole was born in neighbouring Mozambique .\nKilling took place in Alexandra township near Johannesburg after a night of\u00a0xenophobic\u00a0looting and attacks .\nLocals blame migrants from elsewhere in Africa for a lack of jobs - with neighbours turning on one another .\nIn a chilling twist Mr Sithole did not\u00a0receive\u00a0treatment at nearby medical centre because foreign-born duty doctor failed to turn up for work as\u00a0he feared being attacked .\nWARNING GRAPHIC CONTENT ."
+    },
+    {
+      "id": "99803fe554cd91f33b367d896fd2d174523b290b",
+      "prediction": "Supermarkets slashing prices to compete with budget chains .\nMilk, vegetables and meat have all seen the biggest fall in price .\nClothes and footwear have also become more affordable .\nFalling oil prices mean cheaper transport and selling of goods .\nInflation has hit zero and analysts predict it will go negative soon .",
+      "reference": "Shoppers are taking advantage of cheaper eggs, milk, cheese and meat .\nCost of staples has been slashed as supermarkets compete for customers .\nBigger stores competing with rise of budget chains Aldi and Lidl on price .\nPrices in shops are 2.1 per cent lower this year than 12 months ago ."
+    },
+    {
+      "id": "046b7d1b181fcb7e80b95f58eda938cec7a0735c",
+      "prediction": "Ian Walters, 51, killed his wife Tracy, 48, in March last year .\nProsecution claims conflict over sex was main reason for their divorce .\nWalters, who also worked as a driving test examiner, veered off the M1 .\nMrs Walters was flown to hospital but died two days later from her injuries .\nWalters, who was also badly hurt in the incident, was charged with her murder two months later - ten days after her funeral .\nThe couple, who were said to have had a 'troubled' relationship, had married in Cyprus in 2012 but their relationship is alleged to have become abusive soon afterwards, jurors heard .",
+      "reference": "Tracy Walters, 48, and husband Ian, 51, had been on a 'make or break trip'\nHe is accused of driving his 4x4 into a tree at 84mph and killing his wife .\nGiving evidence, he told jurors their sex life had been 'very fulfilling'"
+    },
+    {
+      "id": "131effae07cdb7ebc21527fe7def467c38e02b0a",
+      "prediction": "Millie Marotta, 36, has created a series of intricate animal illustrations .\nThe illustrator from Tenby, Wales, has sold 500,000 copies worldwide .\nShe has received emails from people of all ages saying how much they enjoyed the simple act of colouring in her line drawings .",
+      "reference": "Millie Marotta's book, Animal Kingdom, features detailed line illustrations .\nThe \u00a33.99 book is currently #1 on Amazon's Top 100 Books list .\nThe 36-year-old illustrator resides and works in Tenby, Wales ."
+    },
+    {
+      "id": "069c9ea4fc03755f1f460f8890a5c2f198646ca0",
+      "prediction": "Celebrity chef Curtis Stone is adamant that his children should eat healthily .\nHe says he won't let his kids eat junk food such as hot dogs .\nStone's new cookbook, Good Food, Good Life contains photos of him cooking and gardening with wife Lindsay throughout the book .",
+      "reference": "Stone's biggest priority is to nourish his children with healthy food .\nHe and wife Lindsay have two boys, Hudson, 3, and Emerson, 7 months .\n\u2018I don't want him to have the nitrates and c*** that's in a hot dog,' he says .\nHe wants parents to expose their children to a range of healthy food .\nStone is in Australia to promote his cookbook, Good Food, Good Life .\nPhotos of Stone cooking and gardening with his wife feature in the book ."
+    },
+    {
+      "id": "2cb2f56f23932db1eb8c3a9ba83a53957fbb25af",
+      "prediction": "The recall is voluntary .\nNo illnesses have been reported so far .",
+      "reference": "A random sample from a Michigan store tested positive for Listeria monocytogenes .\nNo illnesses caused by the hummus have been reported so far ."
+    },
+    {
+      "id": "05e0ff6226c6995c47f338969a48924c4e6edb94",
+      "prediction": "NEW: Saudi Arabia says it wants to restore the Yemeni government .\nThe Saudi-led coalition ends \"Operation Decisive Storm\"\nA new initiative called \"Operation Renewal of Hope\" is underway .",
+      "reference": "Former Yemeni President Ali Abdullah Saleh will leave, a source says .\nOusted leader Abdu Rabu Mansour Hadi promises to return .\nNext phase, called \"Operation Renewal of Hope,\" will focus on political process ."
+    },
+    {
+      "id": "9ca0c3e199ec4d7a7ffee5df459eed83cf65b4c4",
+      "prediction": "Adam Leheup, 34, was cleared of rape and sexual assault by a jury .\nThe University of Greenwich graduate, a technical co-ordinator on the \u00a3500million Nine Elms Point Development not guilty of rape and sexual assault .\nLeheup had been spending nearly a year on police bail before appearing in court .\nHe admitted he was wooing 35 women online and having sex with six of them .\nBut he stopped short with the complainant who said he forced himself on her .\nComplainant said Leheup ignored her cries of 'no' and afterwards said:\u00a0'In my experience girls say no, but they don't mean it'\nJury at Blackfriars Crown Court found Leheup not guilty of rape and sexual assault .",
+      "reference": "Adam Leheup found not guilty of rape and sexual assault by jury .\n34-year-old met the complainant after on the 'Let's Date' app .\nPair enjoyed a night out before Leheup went back to 25-year-old's flat .\nLeheup appeared emotional after being cleared at Blackfriars Crown Court ."
+    },
+    {
+      "id": "71ba864996fd42c4d206f1374dbf8964ac215c1a",
+      "prediction": "Andy Murray will marry Kim Sears in Dunblane on April 11 .\nVisitScotland says Scotland is the most popular wedding destination in the UK .\nThe country boasts 5.54 marriages per 1,000 people .\nDumfries and Galloway is the most popular area for weddings in Scotland .\nGretna Green is famous for its 'runaway weddings'\nSouth Ayrshire is home to Culzean Castle, a popular wedding site .",
+      "reference": "Scotland has been named the most popular wedding destination in the UK .\nA quarter of all marriages in Scotland involve couples from elsewhere .\nWedding tourism industry has had \u00a380 million impact on the economy .\nHometown hero, Andy Murray, to wed Kim Sears in Dunblane Cathedral ."
+    },
+    {
+      "id": "e3a99c49ba2a21078461059215523228ea3a9c29",
+      "prediction": "If you know where to look and when to book you can holiday like millionaire .\nPrivate jets, mega yachts, private islands and super cars are not just for the rich .\nAirbnb, Getmyboat and fashionhire.co.uk are helping you save thousands .",
+      "reference": "Charter  a private jet in the US via Jetsuite.com for as little as \u00a3369 .\nAirbnb, HomeAway and VRBO offer budget stays in castles and mansions .\nGetmyboat.com has luxury yachts from \u00a3125 per person all over the world .\nA specialist website lets car fans rent a Porsche Boxster S for  \u00a3175 per day ."
+    },
+    {
+      "id": "385770a8b000f48c8c6bfe7c842332bd9e77b1fd",
+      "prediction": "Paige VanZant and Felice Herrig had to be pulled apart during the stare down .\nVanZant, 21, has been hyped as the UFC's next big thing .\nShe has only fought five times but has already made a winning start .\nHerrig is looking to extend her unbeaten run to six .\nThe two will meet in the Octagon on Saturday night .",
+      "reference": "Paige VanZant takes on Felice Herrig in New Jersey on Saturday .\nThe 21-year-old has only had five fights but is the latest UFC star .\nShe is one of a select few to have an individual contract with Reebok .\nVanZant could realistically become the youngest-ever UFC champion ."
+    },
+    {
+      "id": "63ab9857ea9b1bee3e0aef7c4f7276b16ee22cb8",
+      "prediction": "Hammond has ruled out returning to Top Gear .\nHe tweeted: 'Not about to quit my mates anyway'\nClarkson was seen drinking with friends yesterday .\nAndy Wilman, who quit the BBC yesterday, has launched a scathing attack on 'meddling BBC executives' in a Top Gear Magazine editorial .",
+      "reference": "Richard Hammond has become the final presenter to leave Top Gear .\nFormer producer Andy Wilman also accused BBC of 'meddling' with show .\nAttack in Top Gear Magazine came day after he sensationally quit\u00a0BBC .\nJeremy Clarkson was seen plotting their next move in a pub last night ."
+    },
+    {
+      "id": "69f8ad5a4b68819bb8990cec3c235e78674c43e6",
+      "prediction": "Steve Esmond and his wife, Dr Theresa Devine, and their two teenage sons fell seriously ill during their stay at the Sirenusa Condominium Resort .\nSean, 16, and Ryan, 14, were in critical condition .\nThe family were airlifted to separate hospitals in Philadelphia suffering major respiratory trauma .\nJames Maron, the family's lawyer, said the boys were in 'rough shape'\nOn Friday a spokesman from the US Environmental Protection agency said the family may have fallen ill because of the presence of a pesticide at the rented villa .",
+      "reference": "Steve Esmond, his wife Theresa Divine and their two teenage sons fell seriously ill while staying  at the Sirenusa Resort in St. John .\nDivine was released from hospital and is now in occupational therapy .\nThe family's lawyer said the boys are in 'rough shape'\nOn Friday the US Environmental Protection Agency said preliminary tests showed there was 'a presence of methyl bromide in the unit ."
+    },
+    {
+      "id": "f6f982168270b7902c96bbdf0255c5c01454863c",
+      "prediction": "Tyecka Shanta Evans, 28, was taken into custody Tuesday .\nHer 3-month-old daughter, Taliya Richardson, was found unresponsive at home .\nEvans initially told police she had dozed off and woke up to find her daughter .\nBut Evans later admitted that she had left her two children and her nephew home alone at 1am to go to a club with her sister and the woman's boyfriend .\nShe is facing manslaughter charges .\nToyana Evans, Tyecka's sister, could also face charges for lying to police .",
+      "reference": "Tyecka Evans, 28, charged with manslaughter in death of 3-month-old Taliya Richardson .\nEvans initially lied that she fell asleep at home and woke up to discover her daughter with plastic bag over her face .\nFlorida mother of two later admitted she went to a club with her sister, leaving three children home alone for nearly two hours ."
+    },
+    {
+      "id": "c1f0a8e1cac8a2bae9217cfb6cd982f26720c7ad",
+      "prediction": "Mark-Francis Vandelli is a keen collector of expensive watches .\nHe currently owns a number of pieces that are worth several thousand pounds .\nHis most expensive watch is a Cartier white gold Moonphase, which he bought from a shop on Sloane Street in Chelsea earlier this year .",
+      "reference": "Mark-Francis Vandelli is a keen collector of expensive watches .\nThe Made In Chelsea star has 16 timepieces in his collection .\nThey come from high end businesses including Cartier, Rolex and Bulgari ."
+    },
+    {
+      "id": "e2c6aee8276b413e165b41c9c9aadf4f162a9428",
+      "prediction": "Fethiye Cetin found out her Armenian roots in her 20s .\nHer grandmother told her she was named Heranus .\nHerenus was part of a group of women and children being marched by Ottoman soldiers .\nCetin says the 1915 forced deportations and massacres were not taught in Turkey's schools .",
+      "reference": "Fethiye Cetin learned of her Armenian heritage from her grandmother .\nThe grandmother survived the 1915 killings, assimilated, then kept her real identity hidden .\nCetin, others want Turkey to recognize the killings as a genocide; the government has refused .\nIn the last decade a more public dialogue on the subject has begun in Turkey ."
+    },
+    {
+      "id": "2d875408fb2c5da20d997d82987243b500910ae0",
+      "prediction": "David Beckham voted the best dad .\nHolly Willoughby voted the best mum .\nEd Sheeran voted the best brother .\nRihanna voted the best sister .\nKatie Hopkins voted the worst mum .",
+      "reference": "A new survey has revealed who Britons would like as their celebrity family .\nDavid Beckham was voted number one choice for father .\nHolly Willoughby was voted as the most desired mother .\nThe survey also revealed we want Adele and Rhianna as our sister ."
+    },
+    {
+      "id": "37576d3e579af6d5bb9ce8b1bc70dad830424a26",
+      "prediction": "Jason Lee, 38, was arrested in August 2013 after the woman accused him .\nLee has pleaded not guilty and is free on $100,000 bail .\nHe has opted for a non-jury trial before Suffolk County Court Judge Barbara Kahn .\nThe woman, a then-20-year-old Irish student, said that once at the house, Lee undressed, forced his way into a bathroom and pinned her to the floor .",
+      "reference": "Jason Lee, 38, was arrested in August 2013 after a woman accused him of attacking her at the home he and his wife rented in East Hampton .\nAfter inviting the woman and her friends back to the house, he allegedly undressed, forced his way into a bathroom and pinned her to the floor .\nLee was celebrating his birthday at a Hamptons night club night of incident .\nThe former investment banker pleaded not guilty and is free on $100,000 bail ."
+    },
+    {
+      "id": "291391898120224797b35817f205bb5ba966836f",
+      "prediction": "Yuhei Takashima, 64, is accused of photographing an obscene act with a girl .\nHe allegedly paid for sex with more than 12,000 women, some of them girls .\nTakashima worked at a school in Manila, then returned there often on vacation .",
+      "reference": "Police: Yuhei Takashima, 64, says he had sex with girls as young as 14 in Philippines .\nOfficers seize nearly 150,000 photos that the former principal kept of his activities ."
+    },
+    {
+      "id": "3259a49526d6177d16bf88726d92656f0fcb41f3",
+      "prediction": "Olivier Rousteing, 29, chose Kim and Kanye to star in Balmain's latest campaign .\nThe French designer says they are 'among the most talked-about people'\nHe says they represent a family for the new world .",
+      "reference": "Olivier Rousteing has revealed why he chose Kim and Kanye for Balmain .\nDesigner says the couple are 'among the most talked-about people'\nFashionable couple love wearing matching designs by Balmain designer ."
+    },
+    {
+      "id": "6ce114f5e6e0be64dcfb04eb95a902f45cbdaf1c",
+      "prediction": "Olive Fowler was caught by police at JFK airport on April 12 .\nShe took a Caribbean Airlines flight from her hometown in Guyana, South America, to New York .\nAuthorities said they spotted her 'sweating profusely' and 'avoiding eye contact with officers'\nAfter patting her down in a private room, investigators reportedly felt a 'dense hard material' under her clothes .\nThe packages tested positive for cocaine .",
+      "reference": "Olive Fowler was caught by police at JFK airport on April 12 after taking a Caribbean Airlines flight from her hometown in Guyana to New York .\nAuthorities said they spotted her 'sweating profusely' and 'avoiding eye contact with officers' so they decided to pull her aside to conduct a search .\nIt's estimated the drugs found in her panties have a street value of more than $73,000 .\nShe now faces federal narcotics smuggling charges ."
+    },
+    {
+      "id": "7636ed446e5b623a25da69c3c2d4e3e9cfd323ad",
+      "prediction": "Kate Upton claims Terry Richardson released footage of her dancing in a bikini in a video called 'Cat Daddy'\nUpton says the video was not meant to be for public consumption .\nBut Upton also adds that there's no bad blood over the YouTube video anymore .\nTerry is known for his racy - often pornographic - photo shoots .\nAnd he has faced sexual assault allegations from several models over the years .",
+      "reference": "Terry Richardson is accused of releasing film without model permission .\nThe minute-long footage shows Upton dancing in a skimpy bikini .\nThe photographer has long courted controversy .\nHe has previously been accused of sexual assaulting young models .\nRichardson has previously denied the allegations made against him ."
+    },
+    {
+      "id": "b51e3af2a069c1f0c0de0ba7e8ed4312c9dec2b1",
+      "prediction": "Paige VanZant defeats Felice Herrig by unanimous decision .\nVanZant lands several knees and punches throughout the fight .\nThe 21-year-old is now undefeated in the UFC .\nShe is one of the few fighters to be signed by Reebok .",
+      "reference": "Paige VanZant won every round, recording a win by 30-27, 30-26 and 30-26 .\nThe 21-year-old was having just her second fight in the UFC .\nVanZant has been tipped as one of the next stars of the promotion .\nShe said it feels like her birthday whenever she walks out into the cage ."
+    },
+    {
+      "id": "eb78a53cb8d33151880618d65cfebcefd103da34",
+      "prediction": "One in four Britons will be from a minority group by 2051 .\nBaby boom among Pakistani, Bangladeshi and African immigrants .\nCampaigners fear this will put pressure on housing, schools and the NHS .\nResearch carried out by Leeds University and reported in The Times .",
+      "reference": "Fastest growing groups will be from Pakistan,\u00a0Bangladesh\u00a0and Africa .\nMinority population will increase three times faster than whites to 2051 .\nBetween 2011 and 2051 total population will increase from 63.4m to 77.4m .\nCampaigners warn this will put strain on housing, schools and the NHS ."
+    }
+  ]
+}
